@@ -1,0 +1,5182 @@
+{
+  "-1":{
+    "song_id":-1,
+    "title":"",
+    "diff":[-1, -1, -1, -1, -1],
+    "jacket_name":"",
+    "band_id":-1
+  },
+  "1":{
+    "song_id":1,
+    "title":"Yes! BanG_Dream!",
+    "diff":[5, 10, 17, 22, 26],
+    "jacket_name":"yes_bang_dream",
+    "band_id":1
+  },
+  "2":{
+    "song_id":2,
+    "title":"STAR BEAT!〜ホシノコドウ〜",
+    "diff":[7, 14, 20, 25, 26],
+    "jacket_name":"star_beat",
+    "band_id":1
+  },
+  "3":{
+    "song_id":3,
+    "title":"ぽっぴん'しゃっふる",
+    "diff":[7, 11, 18, 24, -1],
+    "jacket_name":"yes_bang_dream",
+    "band_id":1
+  },
+  "4":{
+    "song_id":4,
+    "title":"ティアドロップス",
+    "diff":[9, 13, 19, 25, 27],
+    "jacket_name":"teardrop",
+    "band_id":1
+  },
+  "5":{
+    "song_id":5,
+    "title":"夏空 SUN! SUN! SEVEN!",
+    "diff":[8, 12, 19, 25, -1],
+    "jacket_name":"star_beat",
+    "band_id":1
+  },
+  "7":{
+    "song_id":7,
+    "title":"God knows...",
+    "diff":[10, 15, 23, 28, 26],
+    "jacket_name":"godknows",
+    "band_id":1
+  },
+  "8":{
+    "song_id":8,
+    "title":"空色デイズ",
+    "diff":[5, 12, 20, 26, 27],
+    "jacket_name":"sorairodays",
+    "band_id":1
+  },
+  "9":{
+    "song_id":9,
+    "title":"ETERNAL BLAZE",
+    "diff":[9, 13, 19, 25, 26],
+    "jacket_name":"eternalblaze",
+    "band_id":5
+  },
+  "10":{
+    "song_id":10,
+    "title":"Alchemy",
+    "diff":[7, 12, 19, 26, 26],
+    "jacket_name":"alchemy",
+    "band_id":1
+  },
+  "11":{
+    "song_id":11,
+    "title":"Butter-Fly",
+    "diff":[7, 11, 20, 25, 26],
+    "jacket_name":"butterfly",
+    "band_id":2
+  },
+  "12":{
+    "song_id":12,
+    "title":"走り始めたばかりのキミに",
+    "diff":[7, 12, 20, 25, 27],
+    "jacket_name":"hashikimi",
+    "band_id":1
+  },
+  "13":{
+    "song_id":13,
+    "title":"1000回潤んだ空",
+    "diff":[6, 12, 21, 26, -1],
+    "jacket_name":"miracle",
+    "band_id":1
+  },
+  "14":{
+    "song_id":14,
+    "title":"カルマ",
+    "diff":[6, 12, 20, 26, 26],
+    "jacket_name":"karma",
+    "band_id":2
+  },
+  "15":{
+    "song_id":15,
+    "title":"Don't say \"lazy\"",
+    "diff":[8, 12, 20, 26, 25],
+    "jacket_name":"dont_say_lazy",
+    "band_id":2
+  },
+  "16":{
+    "song_id":16,
+    "title":"Hacking to the Gate",
+    "diff":[7, 12, 18, 25, -1],
+    "jacket_name":"hacking",
+    "band_id":5
+  },
+  "17":{
+    "song_id":17,
+    "title":"魂のルフラン",
+    "diff":[6, 12, 19, 25, 26],
+    "jacket_name":"refrain",
+    "band_id":5
+  },
+  "18":{
+    "song_id":18,
+    "title":"secret base～君がくれたもの～",
+    "diff":[5, 12, 21, 25, -1],
+    "jacket_name":"secretbase",
+    "band_id":4
+  },
+  "19":{
+    "song_id":19,
+    "title":"ドリームパレード",
+    "diff":[6, 13, 20, 26, -1],
+    "jacket_name":"drepare",
+    "band_id":4
+  },
+  "20":{
+    "song_id":20,
+    "title":"シュガーソングとビターステップ",
+    "diff":[9, 14, 21, 28, 25],
+    "jacket_name":"sugarsong",
+    "band_id":3
+  },
+  "21":{
+    "song_id":21,
+    "title":"いーあるふぁんくらぶ",
+    "diff":[7, 11, 20, 26, 26],
+    "jacket_name":"i-aru",
+    "band_id":3
+  },
+  "22":{
+    "song_id":22,
+    "title":"シルエット",
+    "diff":[7, 14, 20, 25, 23],
+    "jacket_name":"silhouette",
+    "band_id":3
+  },
+  "24":{
+    "song_id":24,
+    "title":"ときめきエクスペリエンス！",
+    "diff":[8, 13, 18, 25, 26],
+    "jacket_name":"miracle",
+    "band_id":1
+  },
+  "25":{
+    "song_id":25,
+    "title":"キラキラだとか夢だとか ～Sing Girls～",
+    "diff":[8, 14, 19, 25, 26],
+    "jacket_name":"kirayume",
+    "band_id":1
+  },
+  "26":{
+    "song_id":26,
+    "title":"That Is How I Roll!",
+    "diff":[7, 13, 18, 24, 26],
+    "jacket_name":"thatishowiroll",
+    "band_id":2
+  },
+  "27":{
+    "song_id":27,
+    "title":"True color",
+    "diff":[6, 13, 18, 25, 26],
+    "jacket_name":"true_color",
+    "band_id":2
+  },
+  "28":{
+    "song_id":28,
+    "title":"Scarlet Sky",
+    "diff":[6, 12, 19, 26, 26],
+    "jacket_name":"scarlet_sky",
+    "band_id":2
+  },
+  "29":{
+    "song_id":29,
+    "title":"BLACK SHOUT",
+    "diff":[6, 13, 18, 25, 26],
+    "jacket_name":"blackshout",
+    "band_id":5
+  },
+  "30":{
+    "song_id":30,
+    "title":"Re:birth day",
+    "diff":[7, 11, 21, 29, -1],
+    "jacket_name":"re_birthday",
+    "band_id":5
+  },
+  "31":{
+    "song_id":31,
+    "title":"LOUDER",
+    "diff":[7, 12, 21, 27, -1],
+    "jacket_name":"louder",
+    "band_id":5
+  },
+  "32":{
+    "song_id":32,
+    "title":"しゅわりん☆どり～みん",
+    "diff":[6, 12, 19, 24, 25],
+    "jacket_name":"syuwarin",
+    "band_id":4
+  },
+  "33":{
+    "song_id":33,
+    "title":"パスパレボリューションず☆",
+    "diff":[7, 12, 19, 25, -1],
+    "jacket_name":"paspare",
+    "band_id":4
+  },
+  "34":{
+    "song_id":34,
+    "title":"はなまる◎アンダンテ",
+    "diff":[8, 14, 19, 25, -1],
+    "jacket_name":"hanamaru",
+    "band_id":4
+  },
+  "35":{
+    "song_id":35,
+    "title":"えがおのオーケストラっ！",
+    "diff":[6, 11, 18, 23, 25],
+    "jacket_name":"egaoke",
+    "band_id":3
+  },
+  "36":{
+    "song_id":36,
+    "title":"ハピネスっ！ハピィーマジカルっ♪",
+    "diff":[7, 12, 20, 25, 26],
+    "jacket_name":"happiness",
+    "band_id":3
+  },
+  "37":{
+    "song_id":37,
+    "title":"ゴーカ！ごーかい！？ファントムシーフ！",
+    "diff":[7, 14, 21, 28, 25],
+    "jacket_name":"phantom_thief",
+    "band_id":3
+  },
+  "40":{
+    "song_id":40,
+    "title":"Happy Happy Party!",
+    "diff":[6, 12, 19, 23, -1],
+    "jacket_name":"kirayume",
+    "band_id":1
+  },
+  "41":{
+    "song_id":41,
+    "title":"Don't be afraid!",
+    "diff":[6, 12, 18, 25, 27],
+    "jacket_name":"dont_be_afraid",
+    "band_id":6
+  },
+  "42":{
+    "song_id":42,
+    "title":"光るなら",
+    "diff":[7, 13, 20, 24, 25],
+    "jacket_name":"hikarunara",
+    "band_id":1
+  },
+  "43":{
+    "song_id":43,
+    "title":"前へススメ！",
+    "diff":[6, 13, 20, 26, -1],
+    "jacket_name":"maehesusume",
+    "band_id":1
+  },
+  "44":{
+    "song_id":44,
+    "title":"そばかす",
+    "diff":[6, 12, 19, 23, 25],
+    "jacket_name":"sobakasu",
+    "band_id":4
+  },
+  "45":{
+    "song_id":45,
+    "title":"夢みるSunflower",
+    "diff":[7, 13, 19, 25, -1],
+    "jacket_name":"sunflower",
+    "band_id":1
+  },
+  "46":{
+    "song_id":46,
+    "title":"Little Busters!",
+    "diff":[7, 13, 19, 25, -1],
+    "jacket_name":"littlebusters",
+    "band_id":1
+  },
+  "47":{
+    "song_id":47,
+    "title":"キミにもらったもの",
+    "diff":[6, 13, 18, 21, -1],
+    "jacket_name":"kimimora",
+    "band_id":1
+  },
+  "48":{
+    "song_id":48,
+    "title":"正解はひとつ!じゃない!!",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"seikai",
+    "band_id":8
+  },
+  "49":{
+    "song_id":49,
+    "title":"天体観測",
+    "diff":[7, 14, 19, 26, 25],
+    "jacket_name":"tentaikansoku",
+    "band_id":7
+  },
+  "50":{
+    "song_id":50,
+    "title":"MOON PRIDE",
+    "diff":[8, 14, 20, 26, -1],
+    "jacket_name":"moon_pride",
+    "band_id":4
+  },
+  "51":{
+    "song_id":51,
+    "title":"どきどきSING OUT!",
+    "diff":[8, 14, 20, 24, -1],
+    "jacket_name":"051_singout",
+    "band_id":9
+  },
+  "52":{
+    "song_id":52,
+    "title":"ハッピーサマーウェディング",
+    "diff":[8, 14, 20, 26, -1],
+    "jacket_name":"052_hapisama",
+    "band_id":3
+  },
+  "53":{
+    "song_id":53,
+    "title":"陽だまりロードナイト",
+    "diff":[7, 11, 19, 25, 25],
+    "jacket_name":"053_hidamari",
+    "band_id":5
+  },
+  "54":{
+    "song_id":54,
+    "title":"great escape",
+    "diff":[8, 13, 19, 26, -1],
+    "jacket_name":"054_great_escape",
+    "band_id":2
+  },
+  "55":{
+    "song_id":55,
+    "title":"紅蓮の弓矢",
+    "diff":[10, 14, 21, 27, 25],
+    "jacket_name":"055_guren",
+    "band_id":5
+  },
+  "56":{
+    "song_id":56,
+    "title":"熱色スターマイン",
+    "diff":[10, 14, 22, 26, -1],
+    "jacket_name":"056_starmine",
+    "band_id":5
+  },
+  "57":{
+    "song_id":57,
+    "title":"花園電気ギター！！！ ",
+    "diff":[10, 14, 20, 26, -1],
+    "jacket_name":"057_denki_guiter",
+    "band_id":10
+  },
+  "58":{
+    "song_id":58,
+    "title":"チョコレイトの低音レシピ",
+    "diff":[6, 13, 19, 25, -1],
+    "jacket_name":"058_chocolate",
+    "band_id":11
+  },
+  "59":{
+    "song_id":59,
+    "title":"ふわふわ時間",
+    "diff":[7, 13, 20, 25, 24],
+    "jacket_name":"059_huwahuwa_time",
+    "band_id":4
+  },
+  "60":{
+    "song_id":60,
+    "title":"ゆら・ゆらRing-Dong-Dance",
+    "diff":[9, 14, 20, 25, -1],
+    "jacket_name":"060_ring_dong_dance",
+    "band_id":4
+  },
+  "61":{
+    "song_id":61,
+    "title":"夏のドーン！",
+    "diff":[8, 14, 19, 24, -1],
+    "jacket_name":"061_natsudon",
+    "band_id":1
+  },
+  "62":{
+    "song_id":62,
+    "title":"ひまわりの約束",
+    "diff":[8, 13, 18, 23, -1],
+    "jacket_name":"062_himawari",
+    "band_id":3
+  },
+  "63":{
+    "song_id":63,
+    "title":"The Everlasting Guilty Crown",
+    "diff":[8, 15, 22, 26, -1],
+    "jacket_name":"063_guilty_crown",
+    "band_id":5
+  },
+  "64":{
+    "song_id":64,
+    "title":"八月のif",
+    "diff":[7, 13, 19, 24, -1],
+    "jacket_name":"064_if",
+    "band_id":1
+  },
+  "65":{
+    "song_id":65,
+    "title":"Hey-day狂騒曲(カプリチオ)",
+    "diff":[10, 15, 22, 28, 26],
+    "jacket_name":"065_hey_day",
+    "band_id":2
+  },
+  "66":{
+    "song_id":66,
+    "title":"アスノヨゾラ哨戒班",
+    "diff":[10, 15, 21, 26, 27],
+    "jacket_name":"066_asuno_yozora",
+    "band_id":2
+  },
+  "67":{
+    "song_id":67,
+    "title":"only my railgun",
+    "diff":[9, 15, 21, 26, 25],
+    "jacket_name":"067_railgun",
+    "band_id":1
+  },
+  "68":{
+    "song_id":68,
+    "title":"YAPPY！SCHOOL CARNIVAL☆彡",
+    "diff":[9, 14, 20, 25, -1],
+    "jacket_name":"068_y_s_c",
+    "band_id":3
+  },
+  "69":{
+    "song_id":69,
+    "title":"せかいのっびのびトレジャー！",
+    "diff":[8, 14, 22, 26, 25],
+    "jacket_name":"069_sekanobi",
+    "band_id":3
+  },
+  "70":{
+    "song_id":70,
+    "title":"SURVIVOR ねばーぎぶあっぷ！",
+    "diff":[10, 15, 22, 26, 27],
+    "jacket_name":"070_survivor",
+    "band_id":4
+  },
+  "71":{
+    "song_id":71,
+    "title":"Red fraction",
+    "diff":[8, 14, 20, 26, -1],
+    "jacket_name":"071_red_fraction",
+    "band_id":5
+  },
+  "72":{
+    "song_id":72,
+    "title":"はなまるぴっぴはよいこだけ",
+    "diff":[9, 14, 20, 25, -1],
+    "jacket_name":"072_pippi",
+    "band_id":4
+  },
+  "73":{
+    "song_id":73,
+    "title":"Time Lapse",
+    "diff":[9, 15, 21, 26, -1],
+    "jacket_name":"073_time_lapse",
+    "band_id":1
+  },
+  "74":{
+    "song_id":74,
+    "title":"遠い音楽 ～ハートビート～",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"074_heart_beat",
+    "band_id":12
+  },
+  "75":{
+    "song_id":75,
+    "title":"-HEROIC ADVENT-",
+    "diff":[9, 14, 21, 26, -1],
+    "jacket_name":"075_heroic_advent",
+    "band_id":5
+  },
+  "76":{
+    "song_id":76,
+    "title":"Determination Symphony",
+    "diff":[7, 13, 23, 27, 26],
+    "jacket_name":"076_symphony",
+    "band_id":5
+  },
+  "77":{
+    "song_id":77,
+    "title":"ロメオ",
+    "diff":[6, 13, 20, 25, 26],
+    "jacket_name":"077_romeo",
+    "band_id":3
+  },
+  "78":{
+    "song_id":78,
+    "title":"READY STEADY GO",
+    "diff":[7, 13, 19, 25, 26],
+    "jacket_name":"078_ready_steady_go",
+    "band_id":2
+  },
+  "79":{
+    "song_id":79,
+    "title":"世界は恋に落ちている",
+    "diff":[7, 14, 18, 23, 25],
+    "jacket_name":"079_sekaochi",
+    "band_id":4
+  },
+  "80":{
+    "song_id":80,
+    "title":"す、好きなんかじゃない！",
+    "diff":[8, 13, 19, 25, -1],
+    "jacket_name":"080_chomama",
+    "band_id":13
+  },
+  "81":{
+    "song_id":81,
+    "title":"千本桜",
+    "diff":[8, 14, 21, 26, 28],
+    "jacket_name":"081_senbonzakura",
+    "band_id":1
+  },
+  "82":{
+    "song_id":82,
+    "title":"恋は渾沌の隷也",
+    "diff":[7, 13, 22, 26, 27],
+    "jacket_name":"082_chaos",
+    "band_id":3
+  },
+  "83":{
+    "song_id":83,
+    "title":"プライド革命",
+    "diff":[6, 13, 19, 25, 26],
+    "jacket_name":"083_pride_kakumei",
+    "band_id":2
+  },
+  "84":{
+    "song_id":84,
+    "title":"深愛",
+    "diff":[8, 14, 20, 25, -1],
+    "jacket_name":"084_shin_ai",
+    "band_id":5
+  },
+  "85":{
+    "song_id":85,
+    "title":"ハッピーシンセサイザ",
+    "diff":[7, 12, 20, 27, 25],
+    "jacket_name":"085_happy_synthe",
+    "band_id":4
+  },
+  "86":{
+    "song_id":86,
+    "title":"君じゃなきゃダメみたい",
+    "diff":[8, 14, 19, 26, -1],
+    "jacket_name":"086_damemitai",
+    "band_id":1
+  },
+  "87":{
+    "song_id":87,
+    "title":"残酷な天使のテーゼ",
+    "diff":[8, 13, 20, 26, 25],
+    "jacket_name":"087_thesis",
+    "band_id":5
+  },
+  "88":{
+    "song_id":88,
+    "title":"Dragon Night",
+    "diff":[6, 11, 19, 24, -1],
+    "jacket_name":"088_dragon_night",
+    "band_id":3
+  },
+  "89":{
+    "song_id":89,
+    "title":"Redo",
+    "diff":[9, 14, 22, 27, 26],
+    "jacket_name":"089_redo",
+    "band_id":2
+  },
+  "90":{
+    "song_id":90,
+    "title":"クインティプル☆すまいる",
+    "diff":[8, 13, 20, 25, -1],
+    "jacket_name":"090_quintuple_smile",
+    "band_id":14
+  },
+  "91":{
+    "song_id":91,
+    "title":"クリスマスのうた",
+    "diff":[8, 13, 20, 25, -1],
+    "jacket_name":"091_xmas",
+    "band_id":1
+  },
+  "92":{
+    "song_id":92,
+    "title":"B.O.F",
+    "diff":[6, 12, 20, 25, -1],
+    "jacket_name":"092_bof",
+    "band_id":1
+  },
+  "93":{
+    "song_id":93,
+    "title":"Y.O.L.O！！！！！",
+    "diff":[8, 14, 21, 27, 25],
+    "jacket_name":"093_yolo",
+    "band_id":2
+  },
+  "94":{
+    "song_id":94,
+    "title":"わちゃ・もちゃ・ぺったん行進曲",
+    "diff":[8, 13, 20, 26, 25],
+    "jacket_name":"094_koushinkyoku",
+    "band_id":3
+  },
+  "95":{
+    "song_id":95,
+    "title":"CiRCLING",
+    "diff":[8, 14, 20, 25, -1],
+    "jacket_name":"095_circling",
+    "band_id":1
+  },
+  "96":{
+    "song_id":96,
+    "title":"ONENESS",
+    "diff":[8, 13, 20, 27, 26],
+    "jacket_name":"096_oneness",
+    "band_id":5
+  },
+  "97":{
+    "song_id":97,
+    "title":"Opera of the wasteland",
+    "diff":[8, 14, 22, 28, 27],
+    "jacket_name":"097_wasteland",
+    "band_id":5
+  },
+  "100":{
+    "song_id":100,
+    "title":"メランコリック",
+    "diff":[8, 13, 19, 24, -1],
+    "jacket_name":"100_melancholic",
+    "band_id":1
+  },
+  "101":{
+    "song_id":101,
+    "title":"SAKURAスキップ",
+    "diff":[8, 13, 20, 25, -1],
+    "jacket_name":"101_sakura_skip",
+    "band_id":4
+  },
+  "104":{
+    "song_id":104,
+    "title":"もういちど ルミナス",
+    "diff":[6, 12, 19, 25, -1],
+    "jacket_name":"104_luminous",
+    "band_id":4
+  },
+  "105":{
+    "song_id":105,
+    "title":"Shangri-La",
+    "diff":[7, 12, 18, 24, 23],
+    "jacket_name":"105_shangrila",
+    "band_id":5
+  },
+  "106":{
+    "song_id":106,
+    "title":"Wonderland Girl",
+    "diff":[8, 14, 20, 25, 26],
+    "jacket_name":"106_wonderlandgirl",
+    "band_id":4
+  },
+  "107":{
+    "song_id":107,
+    "title":"fantastic dreamer",
+    "diff":[8, 14, 20, 25, -1],
+    "jacket_name":"107_fantastic_dreamer",
+    "band_id":3
+  },
+  "108":{
+    "song_id":108,
+    "title":"ハレ晴レユカイ",
+    "diff":[9, 14, 22, 26, 26],
+    "jacket_name":"108_harehare",
+    "band_id":15
+  },
+  "109":{
+    "song_id":109,
+    "title":"This game",
+    "diff":[11, 15, 23, 27, 26],
+    "jacket_name":"109_this_game",
+    "band_id":5
+  },
+  "110":{
+    "song_id":110,
+    "title":"GLAMOROUS SKY",
+    "diff":[8, 15, 19, 26, -1],
+    "jacket_name":"110_glamorous_sky",
+    "band_id":1
+  },
+  "111":{
+    "song_id":111,
+    "title":"軌跡",
+    "diff":[6, 11, 18, 21, -1],
+    "jacket_name":"111_kiseki",
+    "band_id":5
+  },
+  "112":{
+    "song_id":112,
+    "title":"Light Delight",
+    "diff":[9, 14, 22, 26, -1],
+    "jacket_name":"112_lightdelight",
+    "band_id":1
+  },
+  "113":{
+    "song_id":113,
+    "title":"Jamboree!Journey!",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"113_jamboree",
+    "band_id":2
+  },
+  "115":{
+    "song_id":115,
+    "title":"私の心はチョココロネ",
+    "diff":[9, 13, 18, 22, -1],
+    "jacket_name":"115_wata_choco",
+    "band_id":1
+  },
+  "116":{
+    "song_id":116,
+    "title":"気まぐれロマンティック",
+    "diff":[7, 12, 19, 24, 25],
+    "jacket_name":"116_kimagure",
+    "band_id":4
+  },
+  "117":{
+    "song_id":117,
+    "title":"イマジネーション",
+    "diff":[9, 14, 22, 26, 25],
+    "jacket_name":"117_imagination",
+    "band_id":2
+  },
+  "118":{
+    "song_id":118,
+    "title":"Neo-Aspect",
+    "diff":[9, 14, 21, 26, -1],
+    "jacket_name":"118_neoaspect",
+    "band_id":5
+  },
+  "119":{
+    "song_id":119,
+    "title":"Legendary",
+    "diff":[8, 13, 20, 25, -1],
+    "jacket_name":"119_legendary",
+    "band_id":5
+  },
+  "120":{
+    "song_id":120,
+    "title":"DAYS",
+    "diff":[8, 13, 20, 25, 25],
+    "jacket_name":"120_days",
+    "band_id":1
+  },
+  "121":{
+    "song_id":121,
+    "title":"COMIC PANIC!!!",
+    "diff":[11, 15, 21, 26, -1],
+    "jacket_name":"121_comic",
+    "band_id":2
+  },
+  "122":{
+    "song_id":122,
+    "title":"二重の虹（ダブル レインボウ）",
+    "diff":[9, 14, 20, 25, -1],
+    "jacket_name":"122_niji",
+    "band_id":1
+  },
+  "123":{
+    "song_id":123,
+    "title":"ふわふわ☆ゆめいろサンドイッチ",
+    "diff":[7, 13, 19, 24, -1],
+    "jacket_name":"123_yumeiro",
+    "band_id":3
+  },
+  "124":{
+    "song_id":124,
+    "title":"みくみくにしてあげる♪【してやんよ】",
+    "diff":[8, 14, 20, 26, -1],
+    "jacket_name":"124_mikumiku",
+    "band_id":4
+  },
+  "125":{
+    "song_id":125,
+    "title":"天下トーイツ A to Z☆",
+    "diff":[8, 13, 22, 26, 25],
+    "jacket_name":"125_tenka_touitsu",
+    "band_id":4
+  },
+  "126":{
+    "song_id":126,
+    "title":"Believe in my existence",
+    "diff":[10, 14, 21, 26, -1],
+    "jacket_name":"126_existence",
+    "band_id":5
+  },
+  "127":{
+    "song_id":127,
+    "title":"太陽曰く燃えよカオス",
+    "diff":[9, 15, 22, 26, -1],
+    "jacket_name":"127_moeyochaos",
+    "band_id":3
+  },
+  "128":{
+    "song_id":128,
+    "title":"六兆年と一夜物語",
+    "diff":[8, 14, 23, 29, 29],
+    "jacket_name":"128_ichiyamonogatari",
+    "band_id":5
+  },
+  "129":{
+    "song_id":129,
+    "title":"Fantastic future",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"129_fantastic_future",
+    "band_id":4
+  },
+  "130":{
+    "song_id":130,
+    "title":"最高（さあ行こう）！",
+    "diff":[10, 14, 22, 26, -1],
+    "jacket_name":"130_saikou",
+    "band_id":1
+  },
+  "131":{
+    "song_id":131,
+    "title":"ピコっと！パピっと！！ガルパ☆ピコ！！！",
+    "diff":[9, 14, 21, 26, -1],
+    "jacket_name":"131_garupapico",
+    "band_id":16
+  },
+  "132":{
+    "song_id":132,
+    "title":"ハイファイブ∞あどべんちゃっ",
+    "diff":[9, 14, 21, 26, 25],
+    "jacket_name":"132_hifive",
+    "band_id":3
+  },
+  "133":{
+    "song_id":133,
+    "title":"キミの記憶",
+    "diff":[6, 11, 19, 25, -1],
+    "jacket_name":"133_kimino_kioku",
+    "band_id":5
+  },
+  "134":{
+    "song_id":134,
+    "title":"Reach Out To The Truth",
+    "diff":[9, 14, 20, 26, -1],
+    "jacket_name":"134_reach_out",
+    "band_id":2
+  },
+  "135":{
+    "song_id":135,
+    "title":"Life Will Change",
+    "diff":[7, 12, 21, 26, 26],
+    "jacket_name":"135_life_will_change",
+    "band_id":1
+  },
+  "136":{
+    "song_id":136,
+    "title":"夏祭り",
+    "diff":[8, 12, 22, 25, 26],
+    "jacket_name":"136_natsumatsuri",
+    "band_id":1
+  },
+  "137":{
+    "song_id":137,
+    "title":"シャルル",
+    "diff":[8, 13, 20, 25, 26],
+    "jacket_name":"137_sharuru",
+    "band_id":5
+  },
+  "138":{
+    "song_id":138,
+    "title":"ロミオとシンデレラ",
+    "diff":[7, 14, 20, 25, -1],
+    "jacket_name":"138_romishin",
+    "band_id":1
+  },
+  "139":{
+    "song_id":139,
+    "title":"エイリアンエイリアン",
+    "diff":[10, 15, 22, 25, -1],
+    "jacket_name":"139_arien_arien",
+    "band_id":3
+  },
+  "140":{
+    "song_id":140,
+    "title":"ロストワンの号哭",
+    "diff":[10, 14, 23, 26, 25],
+    "jacket_name":"140_goukoku",
+    "band_id":2
+  },
+  "141":{
+    "song_id":141,
+    "title":"GO! GO! MANIAC",
+    "diff":[9, 14, 22, 26, 28],
+    "jacket_name":"141_gomani",
+    "band_id":3
+  },
+  "142":{
+    "song_id":142,
+    "title":"Sanctuary",
+    "diff":[9, 14, 20, 25, -1],
+    "jacket_name":"142_sanctuary",
+    "band_id":5
+  },
+  "143":{
+    "song_id":143,
+    "title":"ガールズコード",
+    "diff":[7, 13, 19, 24, -1],
+    "jacket_name":"143_girlscode",
+    "band_id":1
+  },
+  "144":{
+    "song_id":144,
+    "title":"ツナグ、ソラモヨウ",
+    "diff":[9, 14, 20, 26, -1],
+    "jacket_name":"144_soramoyo",
+    "band_id":2
+  },
+  "145":{
+    "song_id":145,
+    "title":"DISCOTHEQUE",
+    "diff":[9, 14, 20, 26, 25],
+    "jacket_name":"145_discotheque",
+    "band_id":4
+  },
+  "146":{
+    "song_id":146,
+    "title":"新宝島",
+    "diff":[8, 13, 19, 24, 24],
+    "jacket_name":"146_takarajima",
+    "band_id":3
+  },
+  "147":{
+    "song_id":147,
+    "title":"ひとりじゃないんだから",
+    "diff":[7, 13, 20, 25, 26],
+    "jacket_name":"147_no_alone",
+    "band_id":17
+  },
+  "148":{
+    "song_id":148,
+    "title":"ゼッタイ宣言〜Recital〜",
+    "diff":[10, 14, 22, 28, 29],
+    "jacket_name":"148_zettaisengen",
+    "band_id":4
+  },
+  "149":{
+    "song_id":149,
+    "title":"R",
+    "diff":[8, 13, 21, 26, 29],
+    "jacket_name":"149_r",
+    "band_id":5
+  },
+  "150":{
+    "song_id":150,
+    "title":"キミがいなくちゃっ！",
+    "diff":[9, 14, 19, 25, -1],
+    "jacket_name":"150_kimigainakutya",
+    "band_id":3
+  },
+  "151":{
+    "song_id":151,
+    "title":"君に届け",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"151_kiminitodoke",
+    "band_id":1
+  },
+  "152":{
+    "song_id":152,
+    "title":"ゆりゆららららゆるゆり大事件",
+    "diff":[7, 14, 20, 25, -1],
+    "jacket_name":"152_yuriyuraziken",
+    "band_id":4
+  },
+  "153":{
+    "song_id":153,
+    "title":"PASSIONATE ANTHEM",
+    "diff":[9, 14, 21, 27, -1],
+    "jacket_name":"153_passionate",
+    "band_id":5
+  },
+  "154":{
+    "song_id":154,
+    "title":"Crow Song",
+    "diff":[8, 14, 22, 26, -1],
+    "jacket_name":"154_crowsong",
+    "band_id":2
+  },
+  "155":{
+    "song_id":155,
+    "title":"Home Street",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"155_homestreet",
+    "band_id":1
+  },
+  "156":{
+    "song_id":156,
+    "title":"ランブリングメモリー",
+    "diff":[7, 12, 19, 23, -1],
+    "jacket_name":"156_rambling",
+    "band_id":2
+  },
+  "157":{
+    "song_id":157,
+    "title":"エクストラ・マジック・アワー",
+    "diff":[8, 13, 20, 27, -1],
+    "jacket_name":"157_extra_magic",
+    "band_id":3
+  },
+  "158":{
+    "song_id":158,
+    "title":"キズナミュージック♪",
+    "diff":[9, 14, 20, 24, 26],
+    "jacket_name":"158_kizuna_music",
+    "band_id":1
+  },
+  "159":{
+    "song_id":159,
+    "title":"BRAVE JEWEL",
+    "diff":[8, 14, 23, 27, -1],
+    "jacket_name":"159_brave_jewel",
+    "band_id":5
+  },
+  "160":{
+    "song_id":160,
+    "title":"R・I・O・T",
+    "diff":[7, 12, 22, 26, 27],
+    "jacket_name":"160_riot_raise",
+    "band_id":18
+  },
+  "161":{
+    "song_id":161,
+    "title":"ツキアカリのミチシルベ",
+    "diff":[7, 13, 19, 24, -1],
+    "jacket_name":"161_moon_road",
+    "band_id":5
+  },
+  "162":{
+    "song_id":162,
+    "title":"奏（かなで）",
+    "diff":[6, 12, 18, 22, -1],
+    "jacket_name":"162_kanade",
+    "band_id":4
+  },
+  "163":{
+    "song_id":163,
+    "title":"瞬間センチメンタル",
+    "diff":[8, 14, 21, 26, 26],
+    "jacket_name":"163_senti_mental",
+    "band_id":2
+  },
+  "164":{
+    "song_id":164,
+    "title":"Wake up!",
+    "diff":[7, 14, 21, 26, -1],
+    "jacket_name":"164_wake_up",
+    "band_id":1
+  },
+  "165":{
+    "song_id":165,
+    "title":"名前のない怪物",
+    "diff":[7, 12, 21, 26, -1],
+    "jacket_name":"165_noname_monster",
+    "band_id":5
+  },
+  "166":{
+    "song_id":166,
+    "title":"回レ！雪月花",
+    "diff":[10, 15, 23, 27, 26],
+    "jacket_name":"166_maware_setsugekka",
+    "band_id":3
+  },
+  "167":{
+    "song_id":167,
+    "title":"Q＆A　リサイタル！",
+    "diff":[8, 14, 20, 26, -1],
+    "jacket_name":"167_qanda_recital",
+    "band_id":4
+  },
+  "168":{
+    "song_id":168,
+    "title":"Safe and Sound",
+    "diff":[7, 12, 19, 24, -1],
+    "jacket_name":"168_safe_sound",
+    "band_id":5
+  },
+  "169":{
+    "song_id":169,
+    "title":"ぎゅっDAYS♪",
+    "diff":[11, 15, 22, 26, -1],
+    "jacket_name":"169_gyu_days",
+    "band_id":4
+  },
+  "170":{
+    "song_id":170,
+    "title":"Jumpin'",
+    "diff":[10, 15, 22, 26, -1],
+    "jacket_name":"170_jumpin",
+    "band_id":1
+  },
+  "171":{
+    "song_id":171,
+    "title":"はれやか すこやか ぴかりんりん♪",
+    "diff":[10, 15, 22, 26, -1],
+    "jacket_name":"171_pikarin",
+    "band_id":3
+  },
+  "172":{
+    "song_id":172,
+    "title":"らしさ",
+    "diff":[7, 13, 21, 26, 26],
+    "jacket_name":"172_rasisa",
+    "band_id":2
+  },
+  "173":{
+    "song_id":173,
+    "title":"夜行性ハイズ",
+    "diff":[7, 12, 20, 25, -1],
+    "jacket_name":"173_yakousei",
+    "band_id":1
+  },
+  "174":{
+    "song_id":174,
+    "title":"オトモダチフィルム",
+    "diff":[9, 14, 20, 25, -1],
+    "jacket_name":"174_friendfilm",
+    "band_id":1
+  },
+  "175":{
+    "song_id":175,
+    "title":"Ringing Bloom",
+    "diff":[12, 16, 25, 29, 28],
+    "jacket_name":"175_ringingbloom",
+    "band_id":5
+  },
+  "176":{
+    "song_id":176,
+    "title":"Baby Sweet Berry Love",
+    "diff":[8, 13, 20, 26, -1],
+    "jacket_name":"176_babylove",
+    "band_id":4
+  },
+  "177":{
+    "song_id":177,
+    "title":"SAKURA MEMORIES",
+    "diff":[7, 13, 19, 25, -1],
+    "jacket_name":"177_sakuramemories",
+    "band_id":1
+  },
+  "178":{
+    "song_id":178,
+    "title":"革命デュアリズム",
+    "diff":[11, 15, 21, 26, -1],
+    "jacket_name":"178_kakumeidualism",
+    "band_id":19
+  },
+  "179":{
+    "song_id":179,
+    "title":"檄！帝国華撃団",
+    "diff":[10, 14, 20, 26, -1],
+    "jacket_name":"179_empire",
+    "band_id":20
+  },
+  "180":{
+    "song_id":180,
+    "title":"Returns",
+    "diff":[7, 14, 19, 25, -1],
+    "jacket_name":"180_returns",
+    "band_id":1
+  },
+  "181":{
+    "song_id":181,
+    "title":"NO GIRL NO CRY",
+    "diff":[9, 14, 20, 24, -1],
+    "jacket_name":"181_nocry",
+    "band_id":1
+  },
+  "182":{
+    "song_id":182,
+    "title":"Dreamers Go!",
+    "diff":[8, 14, 20, 25, -1],
+    "jacket_name":"182_dreamersgo",
+    "band_id":1
+  },
+  "183":{
+    "song_id":183,
+    "title":"StaRt",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"183_start",
+    "band_id":3
+  },
+  "184":{
+    "song_id":184,
+    "title":"ON YOUR MARK",
+    "diff":[9, 15, 23, 26, 27],
+    "jacket_name":"184_onyourmark",
+    "band_id":2
+  },
+  "185":{
+    "song_id":185,
+    "title":"いつも通りのBrand new days",
+    "diff":[9, 14, 20, 25, 26],
+    "jacket_name":"185_brandnewdays",
+    "band_id":2
+  },
+  "186":{
+    "song_id":186,
+    "title":"きゅ〜まい＊flower",
+    "diff":[9, 14, 21, 26, -1],
+    "jacket_name":"186_myflower",
+    "band_id":4
+  },
+  "187":{
+    "song_id":187,
+    "title":"FIRE BIRD",
+    "diff":[9, 14, 20, 27, 29],
+    "jacket_name":"187_firebird",
+    "band_id":5
+  },
+  "188":{
+    "song_id":188,
+    "title":"緋色の空",
+    "diff":[9, 15, 20, 25, -1],
+    "jacket_name":"188_hishokunosora",
+    "band_id":5
+  },
+  "189":{
+    "song_id":189,
+    "title":"えがお･シング･あ･ソング",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"189_smilesong",
+    "band_id":3
+  },
+  "190":{
+    "song_id":190,
+    "title":"Daydream café",
+    "diff":[10, 14, 21, 25, -1],
+    "jacket_name":"190_daydreamcafe",
+    "band_id":1
+  },
+  "191":{
+    "song_id":191,
+    "title":"ノーポイッ！",
+    "diff":[8, 14, 20, 25, -1],
+    "jacket_name":"191_nopoi",
+    "band_id":3
+  },
+  "192":{
+    "song_id":192,
+    "title":"ときめきポポロン♪",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"192_tokimekipoporon",
+    "band_id":4
+  },
+  "193":{
+    "song_id":193,
+    "title":"ワクワクmeetsトリップ",
+    "diff":[8, 12, 20, 25, -1],
+    "jacket_name":"193_wakuwaku_meets",
+    "band_id":4
+  },
+  "194":{
+    "song_id":194,
+    "title":"UNSTOPPABLE",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"194_unstoppable",
+    "band_id":18
+  },
+  "195":{
+    "song_id":195,
+    "title":"午夜の待ち合わせ",
+    "diff":[7, 14, 22, 26, -1],
+    "jacket_name":"195_goyanomatiawase",
+    "band_id":2
+  },
+  "196":{
+    "song_id":196,
+    "title":"チェリボム",
+    "diff":[7, 15, 21, 26, -1],
+    "jacket_name":"196_cheribom",
+    "band_id":1
+  },
+  "197":{
+    "song_id":197,
+    "title":"にこ×にこ＝ハイパースマイルパワー！",
+    "diff":[9, 14, 20, 26, -1],
+    "jacket_name":"197_niconicosmaile",
+    "band_id":3
+  },
+  "198":{
+    "song_id":198,
+    "title":"春擬き",
+    "diff":[7, 13, 19, 25, -1],
+    "jacket_name":"198_harumodoki",
+    "band_id":4
+  },
+  "199":{
+    "song_id":199,
+    "title":"ディスカバリー！",
+    "diff":[7, 14, 20, 25, -1],
+    "jacket_name":"199_discovery",
+    "band_id":1
+  },
+  "200":{
+    "song_id":200,
+    "title":"約束",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"200_yakusoku",
+    "band_id":5
+  },
+  "201":{
+    "song_id":201,
+    "title":"恋愛裁判",
+    "diff":[9, 14, 20, 25, -1],
+    "jacket_name":"201_love_trial",
+    "band_id":3
+  },
+  "202":{
+    "song_id":202,
+    "title":"アニバーサリー",
+    "diff":[8, 14, 20, 25, -1],
+    "jacket_name":"202_anniversary",
+    "band_id":1
+  },
+  "203":{
+    "song_id":203,
+    "title":"A DECLARATION OF ×××",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"203_declaration",
+    "band_id":18
+  },
+  "204":{
+    "song_id":204,
+    "title":"海色",
+    "diff":[9, 15, 20, 27, -1],
+    "jacket_name":"204_miiro",
+    "band_id":5
+  },
+  "205":{
+    "song_id":205,
+    "title":"青い栞",
+    "diff":[7, 13, 19, 24, -1],
+    "jacket_name":"205_aoishiori",
+    "band_id":2
+  },
+  "206":{
+    "song_id":206,
+    "title":"1/3の純情な感情",
+    "diff":[7, 13, 20, 25, 24],
+    "jacket_name":"206_junjo",
+    "band_id":18
+  },
+  "207":{
+    "song_id":207,
+    "title":"Easy come, Easy go！",
+    "diff":[7, 13, 20, 27, -1],
+    "jacket_name":"207_easycome",
+    "band_id":2
+  },
+  "208":{
+    "song_id":208,
+    "title":"上海ハニー",
+    "diff":[9, 13, 20, 26, -1],
+    "jacket_name":"208_shanhi",
+    "band_id":3
+  },
+  "209":{
+    "song_id":209,
+    "title":"ミュージック・アワー",
+    "diff":[8, 13, 19, 25, -1],
+    "jacket_name":"209_musichour",
+    "band_id":1
+  },
+  "210":{
+    "song_id":210,
+    "title":"あっつあつ 常夏 らぶ☆サマー！",
+    "diff":[9, 14, 21, 26, 26],
+    "jacket_name":"210_lovesummer",
+    "band_id":4
+  },
+  "211":{
+    "song_id":211,
+    "title":"切ないSandglass",
+    "diff":[7, 13, 19, 25, -1],
+    "jacket_name":"211_sandglass",
+    "band_id":1
+  },
+  "212":{
+    "song_id":212,
+    "title":"スマイルブーケで た〜まや〜！",
+    "diff":[8, 13, 19, 24, -1],
+    "jacket_name":"212_smilebouque",
+    "band_id":3
+  },
+  "213":{
+    "song_id":213,
+    "title":"からくりピエロ",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"213_karakuripierrot",
+    "band_id":4
+  },
+  "214":{
+    "song_id":214,
+    "title":"“UNIONS”Road",
+    "diff":[9, 14, 20, 26, -1],
+    "jacket_name":"214_unionsroad",
+    "band_id":5
+  },
+  "215":{
+    "song_id":215,
+    "title":"アイのシナリオ",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"215_ainoscinario",
+    "band_id":2
+  },
+  "217":{
+    "song_id":217,
+    "title":"[FULL]二重の虹（ダブル レインボウ）",
+    "diff":[10, 15, 21, 26, -1],
+    "jacket_name":"217_niji",
+    "band_id":1
+  },
+  "218":{
+    "song_id":218,
+    "title":"ファティマ",
+    "diff":[8, 15, 22, 26, -1],
+    "jacket_name":"218_fatima",
+    "band_id":5
+  },
+  "219":{
+    "song_id":219,
+    "title":"Hello! Wink!",
+    "diff":[8, 15, 22, 26, -1],
+    "jacket_name":"219_hellowink",
+    "band_id":1
+  },
+  "220":{
+    "song_id":220,
+    "title":"What's the POPIPA!?",
+    "diff":[11, 15, 22, 26, -1],
+    "jacket_name":"220_whatsthepopipa",
+    "band_id":1
+  },
+  "221":{
+    "song_id":221,
+    "title":"コレカラ",
+    "diff":[8, 13, 19, 25, -1],
+    "jacket_name":"221_korekara",
+    "band_id":3
+  },
+  "222":{
+    "song_id":222,
+    "title":"Sasanqua",
+    "diff":[7, 14, 20, 26, 25],
+    "jacket_name":"222_sasanqua",
+    "band_id":2
+  },
+  "223":{
+    "song_id":223,
+    "title":"[FULL]ON YOUR MARK",
+    "diff":[10, 16, 24, 27, -1],
+    "jacket_name":"223_onyour",
+    "band_id":2
+  },
+  "224":{
+    "song_id":224,
+    "title":"激動",
+    "diff":[9, 13, 20, 26, 27],
+    "jacket_name":"224_gekidou",
+    "band_id":18
+  },
+  "225":{
+    "song_id":225,
+    "title":"ブルーバード",
+    "diff":[10, 14, 20, 25, -1],
+    "jacket_name":"225_bluebird",
+    "band_id":1
+  },
+  "226":{
+    "song_id":226,
+    "title":"ゆめゆめグラデーション",
+    "diff":[7, 13, 20, 26, -1],
+    "jacket_name":"226_yumeyume",
+    "band_id":4
+  },
+  "227":{
+    "song_id":227,
+    "title":"Paradisus-Paradoxum",
+    "diff":[11, 15, 22, 28, -1],
+    "jacket_name":"227_paradisus",
+    "band_id":5
+  },
+  "228":{
+    "song_id":228,
+    "title":"Stay Alive",
+    "diff":[7, 12, 19, 23, -1],
+    "jacket_name":"228_stayalive",
+    "band_id":4
+  },
+  "229":{
+    "song_id":229,
+    "title":"[FULL]きゅ〜まい＊flower",
+    "diff":[10, 15, 22, 27, -1],
+    "jacket_name":"229_myflower",
+    "band_id":4
+  },
+  "230":{
+    "song_id":230,
+    "title":"おもいでイルミネーション",
+    "diff":[9, 13, 21, 25, -1],
+    "jacket_name":"230_omoide",
+    "band_id":3
+  },
+  "231":{
+    "song_id":231,
+    "title":"全力少年",
+    "diff":[9, 14, 19, 25, 25],
+    "jacket_name":"231_zenryoku",
+    "band_id":3
+  },
+  "232":{
+    "song_id":232,
+    "title":"イニシャル",
+    "diff":[10, 14, 21, 26, 28],
+    "jacket_name":"232_initial",
+    "band_id":1
+  },
+  "233":{
+    "song_id":233,
+    "title":"天ノ弱",
+    "diff":[11, 15, 23, 28, 29],
+    "jacket_name":"233_amanojyaku",
+    "band_id":2
+  },
+  "234":{
+    "song_id":234,
+    "title":"White Afternoon",
+    "diff":[7, 12, 19, 24, -1],
+    "jacket_name":"234_white",
+    "band_id":1
+  },
+  "235":{
+    "song_id":235,
+    "title":"[FULL]えがお･シング･あ･ソング",
+    "diff":[9, 15, 22, 27, -1],
+    "jacket_name":"235_smilesong",
+    "band_id":3
+  },
+  "236":{
+    "song_id":236,
+    "title":"創聖のアクエリオン",
+    "diff":[7, 13, 19, 25, -1],
+    "jacket_name":"236_ aquarion",
+    "band_id":22
+  },
+  "237":{
+    "song_id":237,
+    "title":"GO!!!",
+    "diff":[11, 16, 22, 26, -1],
+    "jacket_name":"237_go",
+    "band_id":23
+  },
+  "238":{
+    "song_id":238,
+    "title":"花ハ踊レヤいろはにほ",
+    "diff":[8, 14, 21, 25, 24],
+    "jacket_name":"238_irohaniho",
+    "band_id":4
+  },
+  "239":{
+    "song_id":239,
+    "title":"夢を撃ち抜く瞬間に！",
+    "diff":[7, 13, 19, 25, -1],
+    "jacket_name":"239_yumeuchi",
+    "band_id":1
+  },
+  "240":{
+    "song_id":240,
+    "title":"開けたらDream!",
+    "diff":[9, 14, 22, 25, -1],
+    "jacket_name":"240_aketaradream",
+    "band_id":1
+  },
+  "241":{
+    "song_id":241,
+    "title":"甲賀忍法帖",
+    "diff":[9, 15, 21, 26, -1],
+    "jacket_name":"241_kouga",
+    "band_id":5
+  },
+  "242":{
+    "song_id":242,
+    "title":"Wonderful Sweet！",
+    "diff":[10, 14, 21, 26, -1],
+    "jacket_name":"242_wonderfulsweet",
+    "band_id":4
+  },
+  "243":{
+    "song_id":243,
+    "title":"[FULL]FIRE BIRD",
+    "diff":[10, 15, 21, 28, -1],
+    "jacket_name":"243_firebird",
+    "band_id":5
+  },
+  "244":{
+    "song_id":244,
+    "title":"Step×Step！",
+    "diff":[7, 14, 19, 25, -1],
+    "jacket_name":"244_stepstep",
+    "band_id":1
+  },
+  "245":{
+    "song_id":245,
+    "title":"Song I am.",
+    "diff":[8, 15, 23, 27, -1],
+    "jacket_name":"245_songiam",
+    "band_id":5
+  },
+  "246":{
+    "song_id":246,
+    "title":"ドレミファロンド",
+    "diff":[8, 12, 20, 24, -1],
+    "jacket_name":"246_doremifa",
+    "band_id":3
+  },
+  "247":{
+    "song_id":247,
+    "title":"EXPOSE ‘Burn out!!!’",
+    "diff":[9, 15, 22, 26, 27],
+    "jacket_name":"247_expose",
+    "band_id":18
+  },
+  "248":{
+    "song_id":248,
+    "title":"TWiNKLE CiRCLE",
+    "diff":[9, 15, 21, 25, -1],
+    "jacket_name":"248_twinkle",
+    "band_id":14
+  },
+  "249":{
+    "song_id":249,
+    "title":"[FULL]キズナミュージック♪",
+    "diff":[10, 15, 21, 26, -1],
+    "jacket_name":"249_kizuna_music",
+    "band_id":1
+  },
+  "250":{
+    "song_id":250,
+    "title":"Break your desire",
+    "diff":[8, 15, 21, 27, -1],
+    "jacket_name":"250_break_your_desire",
+    "band_id":5
+  },
+  "251":{
+    "song_id":251,
+    "title":"I love your way！",
+    "diff":[9, 14, 23, 26, -1],
+    "jacket_name":"251_i_love_your_way",
+    "band_id":2
+  },
+  "252":{
+    "song_id":252,
+    "title":"インフェルノ",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"252_inferno",
+    "band_id":2
+  },
+  "253":{
+    "song_id":253,
+    "title":"ロキ",
+    "diff":[8, 14, 21, 26, 27],
+    "jacket_name":"253_loki",
+    "band_id":2
+  },
+  "254":{
+    "song_id":254,
+    "title":"POP TEAM EPIC",
+    "diff":[7, 13, 19, 25, 26],
+    "jacket_name":"254_poputepi",
+    "band_id":3
+  },
+  "255":{
+    "song_id":255,
+    "title":"Daylight -デイライト-",
+    "diff":[8, 14, 22, 26, 27],
+    "jacket_name":"255_daylight",
+    "band_id":21
+  },
+  "256":{
+    "song_id":256,
+    "title":"金色へのプレリュード",
+    "diff":[8, 14, 20, 25, -1],
+    "jacket_name":"256_prelude",
+    "band_id":21
+  },
+  "257":{
+    "song_id":257,
+    "title":"メリッサ",
+    "diff":[8, 13, 19, 25, 26],
+    "jacket_name":"257_melissa",
+    "band_id":21
+  },
+  "258":{
+    "song_id":258,
+    "title":"Bad Apple!! feat. nomico",
+    "diff":[11, 15, 20, 26, -1],
+    "jacket_name":"258_bad_apple",
+    "band_id":5
+  },
+  "259":{
+    "song_id":259,
+    "title":"chAngE",
+    "diff":[8, 14, 20, 26, -1],
+    "jacket_name":"259_change",
+    "band_id":21
+  },
+  "260":{
+    "song_id":260,
+    "title":"ルカルカ★ナイトフィーバー",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"260_rukaruka",
+    "band_id":4
+  },
+  "261":{
+    "song_id":261,
+    "title":"群青日和",
+    "diff":[8, 13, 19, 26, -1],
+    "jacket_name":"261_gunjo",
+    "band_id":1
+  },
+  "262":{
+    "song_id":262,
+    "title":"うぃーきゃん☆フレフレっ！",
+    "diff":[9, 15, 20, 26, -1],
+    "jacket_name":"262_hurehure",
+    "band_id":3
+  },
+  "263":{
+    "song_id":263,
+    "title":"ブルームブルーム",
+    "diff":[9, 14, 21, 26, 25],
+    "jacket_name":"263_bloom",
+    "band_id":21
+  },
+  "264":{
+    "song_id":264,
+    "title":"Winking☆Cheer",
+    "diff":[7, 13, 19, 23, -1],
+    "jacket_name":"264_winking",
+    "band_id":4
+  },
+  "265":{
+    "song_id":265,
+    "title":"ミライトレイン",
+    "diff":[9, 14, 19, 25, -1],
+    "jacket_name":"265_miraitrain",
+    "band_id":1
+  },
+  "266":{
+    "song_id":266,
+    "title":"Avant-garde HISTORY",
+    "diff":[9, 14, 21, 26, -1],
+    "jacket_name":"266_avanrtgarde",
+    "band_id":5
+  },
+  "267":{
+    "song_id":267,
+    "title":"UNION",
+    "diff":[10, 14, 21, 26, -1],
+    "jacket_name":"267_union",
+    "band_id":1
+  },
+  "268":{
+    "song_id":268,
+    "title":"大盛り一丁！ガルパ☆ピコ",
+    "diff":[10, 15, 21, 26, -1],
+    "jacket_name":"268_omori_pico",
+    "band_id":16
+  },
+  "269":{
+    "song_id":269,
+    "title":"秒針を噛む",
+    "diff":[8, 14, 20, 26, 25],
+    "jacket_name":"269_byoshin",
+    "band_id":21
+  },
+  "270":{
+    "song_id":270,
+    "title":"RED RED RED",
+    "diff":[8, 13, 19, 26, -1],
+    "jacket_name":"270_redredred",
+    "band_id":2
+  },
+  "271":{
+    "song_id":271,
+    "title":"Blessing Chord",
+    "diff":[8, 14, 21, 26, 27],
+    "jacket_name":"271_blessing",
+    "band_id":5
+  },
+  "272":{
+    "song_id":272,
+    "title":"ヒトリノ夜",
+    "diff":[9, 14, 19, 25, 24],
+    "jacket_name":"272_hitorino_yoru",
+    "band_id":18
+  },
+  "273":{
+    "song_id":273,
+    "title":" [原曲]final phase",
+    "diff":[7, 12, 21, 25, -1],
+    "jacket_name":"273_final_phase_original",
+    "band_id":24
+  },
+  "274":{
+    "song_id":274,
+    "title":"ノスタルジックレインフォール",
+    "diff":[8, 13, 19, 25, -1],
+    "jacket_name":"274_nostalgic",
+    "band_id":4
+  },
+  "275":{
+    "song_id":275,
+    "title":"final phase",
+    "diff":[8, 13, 21, 26, -1],
+    "jacket_name":"275_final_phase",
+    "band_id":1
+  },
+  "276":{
+    "song_id":276,
+    "title":"LEVEL5 -judgelight-",
+    "diff":[8, 13, 20, 25, -1],
+    "jacket_name":"276_level5",
+    "band_id":21
+  },
+  "277":{
+    "song_id":277,
+    "title":"カサブタ",
+    "diff":[9, 13, 19, 25, -1],
+    "jacket_name":"277_kasabuta",
+    "band_id":2
+  },
+  "278":{
+    "song_id":278,
+    "title":"Breakthrough!",
+    "diff":[9, 14, 21, 25, -1],
+    "jacket_name":"278_breakthrough",
+    "band_id":1
+  },
+  "279":{
+    "song_id":279,
+    "title":"flame of hope",
+    "diff":[10, 15, 23, 27, 27],
+    "jacket_name":"279_flame_of_hope",
+    "band_id":21
+  },
+  "280":{
+    "song_id":280,
+    "title":"えがお、み～っけた！",
+    "diff":[7, 12, 18, 24, -1],
+    "jacket_name":"280_mikketa",
+    "band_id":3
+  },
+  "281":{
+    "song_id":281,
+    "title":"右肩の蝶",
+    "diff":[7, 13, 21, 25, -1],
+    "jacket_name":"281_migikata",
+    "band_id":5
+  },
+  "282":{
+    "song_id":282,
+    "title":"深海少女",
+    "diff":[8, 13, 20, 25, -1],
+    "jacket_name":"282_shinkai",
+    "band_id":21
+  },
+  "283":{
+    "song_id":283,
+    "title":"劣等上等",
+    "diff":[10, 15, 22, 28, -1],
+    "jacket_name":"283_rettou",
+    "band_id":18
+  },
+  "284":{
+    "song_id":284,
+    "title":"I knew it!",
+    "diff":[9, 14, 22, 27, -1],
+    "jacket_name":"284_i_knew_it",
+    "band_id":2
+  },
+  "285":{
+    "song_id":285,
+    "title":"ウィーアー！",
+    "diff":[9, 14, 21, 25, -1],
+    "jacket_name":"285_we_are",
+    "band_id":3
+  },
+  "286":{
+    "song_id":286,
+    "title":"青と夏",
+    "diff":[9, 15, 21, 26, -1],
+    "jacket_name":"286_ao_to_natsu",
+    "band_id":1
+  },
+  "287":{
+    "song_id":287,
+    "title":"恋しさとせつなさと心強さと",
+    "diff":[8, 13, 19, 24, -1],
+    "jacket_name":"287_itoshisato_setunasato",
+    "band_id":18
+  },
+  "288":{
+    "song_id":288,
+    "title":"Beautiful Birthday",
+    "diff":[9, 14, 21, 26, -1],
+    "jacket_name":"288_beautiful_birthday",
+    "band_id":18
+  },
+  "289":{
+    "song_id":289,
+    "title":"!NVADE SHOW!",
+    "diff":[9, 15, 22, 27, -1],
+    "jacket_name":"289_invadeshow",
+    "band_id":18
+  },
+  "290":{
+    "song_id":290,
+    "title":"Power of LOVE!!!",
+    "diff":[8, 14, 20, 26, -1],
+    "jacket_name":"290_power_of_love",
+    "band_id":4
+  },
+  "291":{
+    "song_id":291,
+    "title":"ZEAL of proud",
+    "diff":[9, 15, 22, 27, -1],
+    "jacket_name":"291_zeal_of_proud",
+    "band_id":5
+  },
+  "292":{
+    "song_id":292,
+    "title":"ブリキノダンス",
+    "diff":[8, 14, 21, 26, 28],
+    "jacket_name":"292_buriki_no_dance",
+    "band_id":18
+  },
+  "293":{
+    "song_id":293,
+    "title":"ONE OF US",
+    "diff":[10, 15, 22, 26, -1],
+    "jacket_name":"293_one_of_us",
+    "band_id":2
+  },
+  "294":{
+    "song_id":294,
+    "title":"Photograph",
+    "diff":[7, 12, 20, 25, -1],
+    "jacket_name":"294_photograph",
+    "band_id":1
+  },
+  "295":{
+    "song_id":295,
+    "title":"Nevereverland",
+    "diff":[10, 15, 22, 27, 28],
+    "jacket_name":"295_nevereverland",
+    "band_id":21
+  },
+  "296":{
+    "song_id":296,
+    "title":"セツナトリップ",
+    "diff":[9, 15, 22, 27, 30],
+    "jacket_name":"296_setsunatrip",
+    "band_id":1
+  },
+  "297":{
+    "song_id":297,
+    "title":"おジャ魔女カーニバル!!",
+    "diff":[9, 13, 20, 25, -1],
+    "jacket_name":"297_ojamajo_carnival",
+    "band_id":3
+  },
+  "298":{
+    "song_id":298,
+    "title":"DANCE! おジャ魔女",
+    "diff":[8, 13, 19, 25, -1],
+    "jacket_name":"298_dance_ojamajo",
+    "band_id":4
+  },
+  "299":{
+    "song_id":299,
+    "title":"Rolling star",
+    "diff":[8, 15, 22, 26, -1],
+    "jacket_name":"299_rolling_star",
+    "band_id":2
+  },
+  "300":{
+    "song_id":300,
+    "title":"ハーモニー・デイ",
+    "diff":[9, 14, 21, 25, -1],
+    "jacket_name":"300_harmony_day",
+    "band_id":21
+  },
+  "301":{
+    "song_id":301,
+    "title":"mind of Prominence",
+    "diff":[9, 15, 21, 27, -1],
+    "jacket_name":"301_mind_of_prominence",
+    "band_id":18
+  },
+  "302":{
+    "song_id":302,
+    "title":"sister's noise",
+    "diff":[8, 12, 20, 25, -1],
+    "jacket_name":"302_sisters_noise",
+    "band_id":5
+  },
+  "303":{
+    "song_id":303,
+    "title":"TITLE IDOL",
+    "diff":[8, 14, 19, 25, -1],
+    "jacket_name":"303_title_idol",
+    "band_id":4
+  },
+  "304":{
+    "song_id":304,
+    "title":"SENSENFUKOKU",
+    "diff":[9, 15, 21, 28, 30],
+    "jacket_name":"304_sensenfukoku",
+    "band_id":2
+  },
+  "305":{
+    "song_id":305,
+    "title":"好き！雪！本気マジック",
+    "diff":[8, 14, 19, 25, -1],
+    "jacket_name":"305_suki_yuki_magimagic",
+    "band_id":3
+  },
+  "306":{
+    "song_id":306,
+    "title":"SAVIOR OF SONG",
+    "diff":[9, 14, 20, 28, 27],
+    "jacket_name":"306_savior_of_song",
+    "band_id":25
+  },
+  "307":{
+    "song_id":307,
+    "title":"ムーンライト伝説",
+    "diff":[7, 13, 19, 24, 25],
+    "jacket_name":"307_moonlight",
+    "band_id":26
+  },
+  "308":{
+    "song_id":308,
+    "title":"ドラマツルギー",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"308_dramaturgy",
+    "band_id":7
+  },
+  "309":{
+    "song_id":309,
+    "title":"Northern lights",
+    "diff":[7, 13, 20, 26, -1],
+    "jacket_name":"309_northern_lights",
+    "band_id":2
+  },
+  "310":{
+    "song_id":310,
+    "title":"Keep Heart",
+    "diff":[11, 15, 23, 27, -1],
+    "jacket_name":"310_keep_heart",
+    "band_id":5
+  },
+  "311":{
+    "song_id":311,
+    "title":"CQCQ",
+    "diff":[8, 14, 21, 25, -1],
+    "jacket_name":"311_cqcq",
+    "band_id":21
+  },
+  "312":{
+    "song_id":312,
+    "title":"Sweets BAN!",
+    "diff":[9, 14, 20, 25, -1],
+    "jacket_name":"312_sweets_ban",
+    "band_id":1
+  },
+  "313":{
+    "song_id":313,
+    "title":"にこにこねくと！",
+    "diff":[8, 13, 19, 24, -1],
+    "jacket_name":"313_niconiconnect",
+    "band_id":3
+  },
+  "314":{
+    "song_id":314,
+    "title":"OUTSIDER RODEO",
+    "diff":[7, 15, 22, 27, -1],
+    "jacket_name":"314_outsider_rodeo",
+    "band_id":18
+  },
+  "315":{
+    "song_id":315,
+    "title":"Make it!",
+    "diff":[8, 14, 20, 25, -1],
+    "jacket_name":"315_make_it",
+    "band_id":4
+  },
+  "316":{
+    "song_id":316,
+    "title":"オレンジ",
+    "diff":[7, 13, 19, 25, -1],
+    "jacket_name":"316_orange",
+    "band_id":3
+  },
+  "317":{
+    "song_id":317,
+    "title":"夜に駆ける",
+    "diff":[9, 14, 21, 26, -1],
+    "jacket_name":"317_yoruni_kakeru",
+    "band_id":4
+  },
+  "318":{
+    "song_id":318,
+    "title":"イエスタデイ",
+    "diff":[7, 12, 19, 24, -1],
+    "jacket_name":"318_yesterday",
+    "band_id":1
+  },
+  "319":{
+    "song_id":319,
+    "title":"サムライハート(Some Like It Hot!!)",
+    "diff":[8, 14, 22, 26, -1],
+    "jacket_name":"319_samurai",
+    "band_id":2
+  },
+  "320":{
+    "song_id":320,
+    "title":"SHINY DAYS",
+    "diff":[7, 12, 19, 23, -1],
+    "jacket_name":"320_shiny_days",
+    "band_id":3
+  },
+  "321":{
+    "song_id":321,
+    "title":"アゲハ蝶",
+    "diff":[7, 13, 20, 25, 23],
+    "jacket_name":"321_ageha",
+    "band_id":21
+  },
+  "322":{
+    "song_id":322,
+    "title":"DAYBREAK FRONTLINE",
+    "diff":[7, 13, 21, 26, -1],
+    "jacket_name":"322_daybreak",
+    "band_id":18
+  },
+  "323":{
+    "song_id":323,
+    "title":"Synchrogazer",
+    "diff":[9, 15, 22, 26, -1],
+    "jacket_name":"323_synchrogazer",
+    "band_id":5
+  },
+  "324":{
+    "song_id":324,
+    "title":"るんっ♪てぃてぃー！",
+    "diff":[9, 14, 20, 25, -1],
+    "jacket_name":"324_run_teitei",
+    "band_id":4
+  },
+  "325":{
+    "song_id":325,
+    "title":"EXIST",
+    "diff":[7, 13, 20, 26, -1],
+    "jacket_name":"325_exist",
+    "band_id":18
+  },
+  "326":{
+    "song_id":326,
+    "title":"Live Beyond!!",
+    "diff":[8, 15, 21, 26, -1],
+    "jacket_name":"326_livebeyond",
+    "band_id":1
+  },
+  "327":{
+    "song_id":327,
+    "title":"Sonorous",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"327_sonorous",
+    "band_id":21
+  },
+  "328":{
+    "song_id":328,
+    "title":"Proud of oneself",
+    "diff":[9, 15, 21, 27, -1],
+    "jacket_name":"328_proud_of_oneself",
+    "band_id":5
+  },
+  "329":{
+    "song_id":329,
+    "title":"V.I.P",
+    "diff":[7, 13, 21, 26, -1],
+    "jacket_name":"329_vip",
+    "band_id":21
+  },
+  "330":{
+    "song_id":330,
+    "title":"Original Call",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"330_original_call",
+    "band_id":5
+  },
+  "331":{
+    "song_id":331,
+    "title":"ハウトゥー世界征服",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"331_how_to_sekai",
+    "band_id":2
+  },
+  "332":{
+    "song_id":332,
+    "title":"鳥の詩",
+    "diff":[8, 15, 21, 26, -1],
+    "jacket_name":"332_tori_no_uta",
+    "band_id":5
+  },
+  "333":{
+    "song_id":333,
+    "title":"CORE PRIDE",
+    "diff":[7, 14, 21, 26, -1],
+    "jacket_name":"333_core_pride",
+    "band_id":18
+  },
+  "334":{
+    "song_id":334,
+    "title":"Happy Girl",
+    "diff":[9, 15, 21, 25, -1],
+    "jacket_name":"334_happy_girl",
+    "band_id":3
+  },
+  "335":{
+    "song_id":335,
+    "title":"春〜spring〜",
+    "diff":[7, 13, 19, 25, -1],
+    "jacket_name":"335_haru_spring",
+    "band_id":1
+  },
+  "336":{
+    "song_id":336,
+    "title":"ラムのラブソング",
+    "diff":[9, 14, 20, 25, -1],
+    "jacket_name":"336_ramu_love_song",
+    "band_id":4
+  },
+  "337":{
+    "song_id":337,
+    "title":"overtuRe",
+    "diff":[9, 14, 22, 27, -1],
+    "jacket_name":"337_overture",
+    "band_id":5
+  },
+  "338":{
+    "song_id":338,
+    "title":"My Dearest",
+    "diff":[9, 15, 21, 26, -1],
+    "jacket_name":"338_my_dearest",
+    "band_id":5
+  },
+  "339":{
+    "song_id":339,
+    "title":"Domination to world",
+    "diff":[9, 15, 22, 27, -1],
+    "jacket_name":"339_domination_to_world",
+    "band_id":18
+  },
+  "340":{
+    "song_id":340,
+    "title":"カナユメ",
+    "diff":[7, 12, 19, 24, -1],
+    "jacket_name":"340_kanayume",
+    "band_id":2
+  },
+  "341":{
+    "song_id":341,
+    "title":"ないすみちゅっ！",
+    "diff":[9, 15, 21, 26, -1],
+    "jacket_name":"341_nice_me_chu",
+    "band_id":3
+  },
+  "342":{
+    "song_id":342,
+    "title":"徒花ネクロマンシー",
+    "diff":[9, 14, 20, 26, 27],
+    "jacket_name":"342_adabana",
+    "band_id":4
+  },
+  "343":{
+    "song_id":343,
+    "title":"大河よ共に泣いてくれ",
+    "diff":[9, 14, 21, 26, -1],
+    "jacket_name":"343_taiga_yo_tomoni",
+    "band_id":1
+  },
+  "344":{
+    "song_id":344,
+    "title":"Sing Alive",
+    "diff":[8, 14, 21, 27, -1],
+    "jacket_name":"344_sing_alive",
+    "band_id":5
+  },
+  "345":{
+    "song_id":345,
+    "title":"ヒューマノイド",
+    "diff":[7, 14, 23, 27, -1],
+    "jacket_name":"345_humanoid",
+    "band_id":2
+  },
+  "346":{
+    "song_id":346,
+    "title":"Sprechchor",
+    "diff":[7, 14, 19, 25, -1],
+    "jacket_name":"346_sprechchor",
+    "band_id":5
+  },
+  "347":{
+    "song_id":347,
+    "title":"Secret Dawn",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"347_secret_dawn",
+    "band_id":21
+  },
+  "348":{
+    "song_id":348,
+    "title":"灼熱 Bonfire!",
+    "diff":[7, 13, 21, 26, 27],
+    "jacket_name":"348_bon_fire",
+    "band_id":18
+  },
+  "349":{
+    "song_id":349,
+    "title":"ここから先は歌にならない",
+    "diff":[8, 14, 20, 26, -1],
+    "jacket_name":"349_kokokara",
+    "band_id":1
+  },
+  "350":{
+    "song_id":350,
+    "title":"Singing “OURS”",
+    "diff":[7, 13, 19, 25, -1],
+    "jacket_name":"350_singing_ours",
+    "band_id":5
+  },
+  "351":{
+    "song_id":351,
+    "title":"DAYS of DASH",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"351_days_of_dash",
+    "band_id":27
+  },
+  "352":{
+    "song_id":352,
+    "title":"COLORFUL BOX",
+    "diff":[7, 14, 20, 25, -1],
+    "jacket_name":"352_colorful_box",
+    "band_id":21
+  },
+  "353":{
+    "song_id":353,
+    "title":"絆色のアンサンブル",
+    "diff":[7, 14, 21, 26, -1],
+    "jacket_name":"353_kizuna_color",
+    "band_id":28
+  },
+  "354":{
+    "song_id":354,
+    "title":"夏に閉じこめて",
+    "diff":[9, 15, 20, 26, -1],
+    "jacket_name":"354_natsuni_tojikomete",
+    "band_id":1
+  },
+  "355":{
+    "song_id":355,
+    "title":"競宴Red×Violet",
+    "diff":[9, 15, 23, 28, -1],
+    "jacket_name":"355_red_violet",
+    "band_id":29
+  },
+  "356":{
+    "song_id":356,
+    "title":"Trouble Joyful!!",
+    "diff":[8, 14, 22, 26, -1],
+    "jacket_name":"356_trouble_joyful",
+    "band_id":2
+  },
+  "357":{
+    "song_id":357,
+    "title":"ラスハピーポー！",
+    "diff":[8, 15, 21, 27, -1],
+    "jacket_name":"357_ras_hapi",
+    "band_id":30
+  },
+  "358":{
+    "song_id":358,
+    "title":"ン・パカマーチ",
+    "diff":[7, 13, 19, 23, -1],
+    "jacket_name":"358_n_pa_ca",
+    "band_id":3
+  },
+  "359":{
+    "song_id":359,
+    "title":"HELL! or HELL?",
+    "diff":[11, 16, 25, 28, 30],
+    "jacket_name":"359_hell_or_hell",
+    "band_id":18
+  },
+  "360":{
+    "song_id":360,
+    "title":"Sacred world",
+    "diff":[8, 14, 22, 26, -1],
+    "jacket_name":"360_scared_world",
+    "band_id":18
+  },
+  "361":{
+    "song_id":361,
+    "title":"KING",
+    "diff":[9, 14, 23, 27, -1],
+    "jacket_name":"361_king",
+    "band_id":5
+  },
+  "362":{
+    "song_id":362,
+    "title":"きらっ☆と キミフェス！",
+    "diff":[7, 13, 19, 25, -1],
+    "jacket_name":"362_kimifes",
+    "band_id":3
+  },
+  "363":{
+    "song_id":363,
+    "title":"TOMORROW",
+    "diff":[6, 12, 20, 26, -1],
+    "jacket_name":"363_tomorrow",
+    "band_id":31
+  },
+  "364":{
+    "song_id":364,
+    "title":"ピコたるもの、ふぃーばー！",
+    "diff":[7, 14, 22, 26, -1],
+    "jacket_name":"364_pico_fever",
+    "band_id":32
+  },
+  "365":{
+    "song_id":365,
+    "title":"fly with the night",
+    "diff":[8, 13, 20, 26, -1],
+    "jacket_name":"365_fly_with_the_night",
+    "band_id":21
+  },
+  "366":{
+    "song_id":366,
+    "title":"ナカナ イナ カナイ",
+    "diff":[6, 11, 18, 21, -1],
+    "jacket_name":"366_nakanai",
+    "band_id":33
+  },
+  "367":{
+    "song_id":367,
+    "title":"ファンサ",
+    "diff":[8, 13, 19, 25, -1],
+    "jacket_name":"367_fansa",
+    "band_id":35
+  },
+  "368":{
+    "song_id":368,
+    "title":"あの夢をなぞって",
+    "diff":[8, 14, 21, 25, -1],
+    "jacket_name":"368_anoyume",
+    "band_id":34
+  },
+  "369":{
+    "song_id":369,
+    "title":"ぼなぺてぃーと♡Ｓ",
+    "diff":[7, 13, 20, 26, -1],
+    "jacket_name":"369_bonapeti",
+    "band_id":36
+  },
+  "370":{
+    "song_id":370,
+    "title":"パッパレ☆人生！バーン万歳！",
+    "diff":[9, 14, 22, 26, -1],
+    "jacket_name":"370_ban_ban_zai",
+    "band_id":4
+  },
+  "371":{
+    "song_id":371,
+    "title":"勇気Limit！",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"371_yuuki_limit",
+    "band_id":1
+  },
+  "372":{
+    "song_id":372,
+    "title":"Off we go.",
+    "diff":[9, 14, 21, 26, -1],
+    "jacket_name":"372_off_we_go",
+    "band_id":2
+  },
+  "373":{
+    "song_id":373,
+    "title":"Our Carol",
+    "diff":[6, 12, 19, 24, -1],
+    "jacket_name":"373_our_carol",
+    "band_id":5
+  },
+  "374":{
+    "song_id":374,
+    "title":"Fateful...",
+    "diff":[7, 13, 19, 24, -1],
+    "jacket_name":"374_fateful",
+    "band_id":21
+  },
+  "375":{
+    "song_id":375,
+    "title":"Embrace of light",
+    "diff":[6, 11, 18, 22, -1],
+    "jacket_name":"375_embrace_of_light",
+    "band_id":18
+  },
+  "376":{
+    "song_id":376,
+    "title":"ベノム",
+    "diff":[8, 14, 20, 25, -1],
+    "jacket_name":"376_venom",
+    "band_id":2
+  },
+  "377":{
+    "song_id":377,
+    "title":"優勝 feat.Afterglow",
+    "diff":[7, 14, 21, 25, -1],
+    "jacket_name":"377_yusho",
+    "band_id":38
+  },
+  "378":{
+    "song_id":378,
+    "title":"COLORS",
+    "diff":[7, 12, 19, 25, -1],
+    "jacket_name":"378_colors",
+    "band_id":37
+  },
+  "379":{
+    "song_id":379,
+    "title":"Keep the Heat and Fire Yourself Up",
+    "diff":[9, 14, 21, 26, -1],
+    "jacket_name":"379_keep_the_heat",
+    "band_id":18
+  },
+  "380":{
+    "song_id":380,
+    "title":"SPARK-AGAIN",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"380_spark_again",
+    "band_id":5
+  },
+  "381":{
+    "song_id":381,
+    "title":"イントロダクション",
+    "diff":[7, 14, 21, 26, -1],
+    "jacket_name":"381_Introduction",
+    "band_id":1
+  },
+  "382":{
+    "song_id":382,
+    "title":"怪物",
+    "diff":[6, 13, 21, 26, -1],
+    "jacket_name":"382_kaibutsu",
+    "band_id":1
+  },
+  "383":{
+    "song_id":383,
+    "title":"CORUSCATE -DNA-",
+    "diff":[7, 13, 21, 26, -1],
+    "jacket_name":"383_coruscate_dna",
+    "band_id":18
+  },
+  "384":{
+    "song_id":384,
+    "title":"ヒトリゴト",
+    "diff":[7, 13, 20, 26, -1],
+    "jacket_name":"384_hitorigoto",
+    "band_id":42
+  },
+  "385":{
+    "song_id":385,
+    "title":"もういちど ルミナス（联动ver）",
+    "diff":[7, 14, 20, 26, -1],
+    "jacket_name":"385_luminous_claris",
+    "band_id":39
+  },
+  "386":{
+    "song_id":386,
+    "title":"DEPARTURES",
+    "diff":[7, 12, 19, 24, -1],
+    "jacket_name":"386_departures",
+    "band_id":18
+  },
+  "387":{
+    "song_id":387,
+    "title":"曇天",
+    "diff":[8, 13, 22, 27, 28],
+    "jacket_name":"387_donten",
+    "band_id":40
+  },
+  "388":{
+    "song_id":388,
+    "title":"グッバイ宣言",
+    "diff":[10, 15, 22, 27, -1],
+    "jacket_name":"388_good_bye_sengen",
+    "band_id":7
+  },
+  "389":{
+    "song_id":389,
+    "title":"シル・ヴ・プレジデント",
+    "diff":[8, 13, 21, 26, -1],
+    "jacket_name":"389_sil_vious_pre",
+    "band_id":41
+  },
+  "390":{
+    "song_id":390,
+    "title":"ぽっぴん'どりーむ！",
+    "diff":[8, 15, 21, 26, -1],
+    "jacket_name":"390_poppin_dream",
+    "band_id":1
+  },
+  "391":{
+    "song_id":391,
+    "title":"星の約束",
+    "diff":[7, 14, 21, 26, -1],
+    "jacket_name":"391_hoshino_yakusoku",
+    "band_id":1
+  },
+  "392":{
+    "song_id":392,
+    "title":"ハッピー☆マテリアル",
+    "diff":[9, 14, 20, 26, -1],
+    "jacket_name":"392_hapimate",
+    "band_id":3
+  },
+  "393":{
+    "song_id":393,
+    "title":"現るっ！大怪盗ハロハッピー！",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"393_daikaitou",
+    "band_id":3
+  },
+  "394":{
+    "song_id":394,
+    "title":"Listen!!",
+    "diff":[9, 15, 22, 26, -1],
+    "jacket_name":"394_listen",
+    "band_id":2
+  },
+  "395":{
+    "song_id":395,
+    "title":"Sparkling Daydream",
+    "diff":[7, 14, 20, 25, 27],
+    "jacket_name":"395_sparking",
+    "band_id":4
+  },
+  "396":{
+    "song_id":396,
+    "title":"Brand new Pastel Road！",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"396_b_n_pastel_road",
+    "band_id":4
+  },
+  "397":{
+    "song_id":397,
+    "title":"Just Awake",
+    "diff":[10, 15, 22, 27, -1],
+    "jacket_name":"397_just_awake",
+    "band_id":18
+  },
+  "398":{
+    "song_id":398,
+    "title":"One step at a time",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"398_one_step_at_a_time",
+    "band_id":21
+  },
+  "399":{
+    "song_id":399,
+    "title":"Repaint",
+    "diff":[8, 15, 22, 27, -1],
+    "jacket_name":"399_repaint",
+    "band_id":18
+  },
+  "400":{
+    "song_id":400,
+    "title":"CATASTROPHE BANQUET",
+    "diff":[9, 14, 22, 29, -1],
+    "jacket_name":"400_catastrophebanquet",
+    "band_id":43
+  },
+  "401":{
+    "song_id":401,
+    "title":"月光花",
+    "diff":[8, 13, 20, 24, 23],
+    "jacket_name":"401_gekkouka",
+    "band_id":21
+  },
+  "402":{
+    "song_id":402,
+    "title":"CiRCLE THANKS MUSiC♪",
+    "diff":[8, 14, 21, 25, -1],
+    "jacket_name":"402_circle_thanks",
+    "band_id":44
+  },
+  "403":{
+    "song_id":403,
+    "title":"ヴァンパイア",
+    "diff":[8, 13, 21, 26, -1],
+    "jacket_name":"403_vampire",
+    "band_id":1
+  },
+  "404":{
+    "song_id":404,
+    "title":"メンタルチェンソー",
+    "diff":[9, 15, 23, 27, -1],
+    "jacket_name":"404_mental_chainsaw",
+    "band_id":2
+  },
+  "405":{
+    "song_id":405,
+    "title":"春を告げる",
+    "diff":[7, 13, 20, 26, -1],
+    "jacket_name":"405_haruwo_tsugeru",
+    "band_id":4
+  },
+  "406":{
+    "song_id":406,
+    "title":"Realize",
+    "diff":[7, 14, 21, 27, 28],
+    "jacket_name":"406_realize",
+    "band_id":5
+  },
+  "407":{
+    "song_id":407,
+    "title":"くちづけDiamond",
+    "diff":[7, 14, 20, 25, -1],
+    "jacket_name":"407_kuchizuke",
+    "band_id":3
+  },
+  "408":{
+    "song_id":408,
+    "title":"unravel",
+    "diff":[8, 13, 21, 26, -1],
+    "jacket_name":"408_unravel",
+    "band_id":21
+  },
+  "409":{
+    "song_id":409,
+    "title":"脳漿炸裂ガール",
+    "diff":[8, 14, 22, 27, 29],
+    "jacket_name":"409_noushou",
+    "band_id":18
+  },
+  "410":{
+    "song_id":410,
+    "title":"閃光",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"410_senkou",
+    "band_id":5
+  },
+  "411":{
+    "song_id":411,
+    "title":"廻廻奇譚",
+    "diff":[9, 15, 22, 26, -1],
+    "jacket_name":"411_kaikaikitan",
+    "band_id":5
+  },
+  "412":{
+    "song_id":412,
+    "title":"[FULL]CiRCLE THANKS MUSiC♪",
+    "diff":[9, 15, 22, 26, -1],
+    "jacket_name":"412_circle_thanks_full",
+    "band_id":44
+  },
+  "413":{
+    "song_id":413,
+    "title":"DRIVE US CRAZY",
+    "diff":[11, 15, 23, 27, -1],
+    "jacket_name":"413_drive_us",
+    "band_id":18
+  },
+  "414":{
+    "song_id":414,
+    "title":"サクラゼンセン",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"414_sakura_zensen",
+    "band_id":2
+  },
+  "415":{
+    "song_id":415,
+    "title":"Freedom",
+    "diff":[8, 13, 20, 25, -1],
+    "jacket_name":"415_freedom",
+    "band_id":47
+  },
+  "416":{
+    "song_id":416,
+    "title":"THE HISTORIC...",
+    "diff":[8, 14, 20, 26, -1],
+    "jacket_name":"416_historic",
+    "band_id":5
+  },
+  "417":{
+    "song_id":417,
+    "title":"Light a fire",
+    "diff":[6, 13, 19, 24, -1],
+    "jacket_name":"417_light_a_fire",
+    "band_id":18
+  },
+  "418":{
+    "song_id":418,
+    "title":"青空のラプソディ",
+    "diff":[7, 14, 21, 26, -1],
+    "jacket_name":"418_aozora_rhapsody",
+    "band_id":48
+  },
+  "419":{
+    "song_id":419,
+    "title":"秘密の扉から会いにきて",
+    "diff":[10, 14, 22, 26, -1],
+    "jacket_name":"419_himitsu_door",
+    "band_id":4
+  },
+  "420":{
+    "song_id":420,
+    "title":"あこがれacross",
+    "diff":[8, 14, 20, 26, -1],
+    "jacket_name":"420_akogare_across",
+    "band_id":4
+  },
+  "421":{
+    "song_id":421,
+    "title":"おもいやりハーモニー",
+    "diff":[8, 12, 19, 23, -1],
+    "jacket_name":"421_omoiyari_harmony",
+    "band_id":3
+  },
+  "422":{
+    "song_id":422,
+    "title":"Cry Baby",
+    "diff":[7, 14, 20, 26, -1],
+    "jacket_name":"422_cry_baby",
+    "band_id":18
+  },
+  "423":{
+    "song_id":423,
+    "title":"トーキョーワンダー。",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"423_tokyo_wander",
+    "band_id":2
+  },
+  "424":{
+    "song_id":424,
+    "title":"ハレハレ☆フォーチュン",
+    "diff":[9, 14, 20, 25, -1],
+    "jacket_name":"424_harehare_fortune",
+    "band_id":4
+  },
+  "425":{
+    "song_id":425,
+    "title":"SWITCH ON NOW",
+    "diff":[8, 15, 22, 27, -1],
+    "jacket_name":"425_switch_on_now",
+    "band_id":2
+  },
+  "426":{
+    "song_id":426,
+    "title":"メギツネ",
+    "diff":[9, 14, 22, 26, -1],
+    "jacket_name":"426_megitsune",
+    "band_id":18
+  },
+  "427":{
+    "song_id":427,
+    "title":"ボクノート",
+    "diff":[6, 12, 19, 23, -1],
+    "jacket_name":"427_bokunote",
+    "band_id":21
+  },
+  "428":{
+    "song_id":428,
+    "title":"Happy! Happier! Happiest!",
+    "diff":[7, 13, 21, 26, -1],
+    "jacket_name":"428_hapihapihapi",
+    "band_id":3
+  },
+  "429":{
+    "song_id":429,
+    "title":"ヒャダインのじょーじょーゆーじょー",
+    "diff":[8, 15, 23, 28, -1],
+    "jacket_name":"429_jojo_yujo",
+    "band_id":3
+  },
+  "430":{
+    "song_id":430,
+    "title":"Preserved Roses",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"430_preserved_roses",
+    "band_id":19
+  },
+  "431":{
+    "song_id":431,
+    "title":"ROZEN HORIZON",
+    "diff":[11, 15, 23, 28, -1],
+    "jacket_name":"431_rozen_horizon",
+    "band_id":5
+  },
+  "432":{
+    "song_id":432,
+    "title":"SOUL SOLDIER",
+    "diff":[9, 15, 22, 28, -1],
+    "jacket_name":"432_soul_soldier",
+    "band_id":18
+  },
+  "433":{
+    "song_id":433,
+    "title":"大好き！",
+    "diff":[10, 14, 20, 25, -1],
+    "jacket_name":"433_daisuki",
+    "band_id":1
+  },
+  "434":{
+    "song_id":434,
+    "title":"Swear 〜Night & Day〜",
+    "diff":[6, 12, 19, 24, -1],
+    "jacket_name":"434_swear_night_day",
+    "band_id":5
+  },
+  "435":{
+    "song_id":435,
+    "title":"寄る辺のSunny, Sunny",
+    "diff":[8, 13, 21, 25, -1],
+    "jacket_name":"435_sunny_sunny",
+    "band_id":21
+  },
+  "436":{
+    "song_id":436,
+    "title":"カラフルリバティー",
+    "diff":[11, 15, 21, 26, -1],
+    "jacket_name":"436_colorful_liberty",
+    "band_id":21
+  },
+  "437":{
+    "song_id":437,
+    "title":"ハナヒバナ",
+    "diff":[7, 12, 20, 24, -1],
+    "jacket_name":"437_hanahibana",
+    "band_id":4
+  },
+  "438":{
+    "song_id":438,
+    "title":"Memento",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"438_memento",
+    "band_id":21
+  },
+  "439":{
+    "song_id":439,
+    "title":"STYX HELIX",
+    "diff":[8, 13, 20, 26, -1],
+    "jacket_name":"439_styx_helix",
+    "band_id":5
+  },
+  "440":{
+    "song_id":440,
+    "title":"THE WAY OF LIFE",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"440_way_of_life",
+    "band_id":18
+  },
+  "441":{
+    "song_id":441,
+    "title":"The Circle Of Butterflies",
+    "diff":[9, 14, 21, 26, -1],
+    "jacket_name":"441_circle_of_butterflies",
+    "band_id":21
+  },
+  "442":{
+    "song_id":442,
+    "title":"独創収差",
+    "diff":[8, 14, 23, 27, -1],
+    "jacket_name":"442_dokusousyusa",
+    "band_id":2
+  },
+  "443":{
+    "song_id":443,
+    "title":"うちゃパ！で ぱっぴかポーんっ！",
+    "diff":[10, 15, 22, 26, -1],
+    "jacket_name":"443_utyapade",
+    "band_id":3
+  },
+  "444":{
+    "song_id":444,
+    "title":"abnormalize",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"444_abnormalize",
+    "band_id":2
+  },
+  "445":{
+    "song_id":445,
+    "title":"divine intervention",
+    "diff":[9, 15, 21, 26, -1],
+    "jacket_name":"445_divine_intervention",
+    "band_id":21
+  },
+  "446":{
+    "song_id":446,
+    "title":"狂乱 Hey Kids!!",
+    "diff":[7, 14, 21, 26, -1],
+    "jacket_name":"446_kyoran_hey_kids",
+    "band_id":18
+  },
+  "447":{
+    "song_id":447,
+    "title":"Moonlight Walk",
+    "diff":[8, 14, 21, 25, -1],
+    "jacket_name":"447_moon_light_walk",
+    "band_id":1
+  },
+  "448":{
+    "song_id":448,
+    "title":"Invincible Fighter",
+    "diff":[7, 14, 22, 27, -1],
+    "jacket_name":"448_invincible_fighter",
+    "band_id":18
+  },
+  "449":{
+    "song_id":449,
+    "title":"Takin’ my Heart",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"449_takin_my_heart",
+    "band_id":18
+  },
+  "450":{
+    "song_id":450,
+    "title":"スカイクラッドの観測者",
+    "diff":[8, 13, 21, 26, -1],
+    "jacket_name":"450_sky_clad",
+    "band_id":49
+  },
+  "451":{
+    "song_id":451,
+    "title":"Punchline Halloween!!!",
+    "diff":[9, 14, 21, 28, -1],
+    "jacket_name":"451_punchline_halloween",
+    "band_id":2
+  },
+  "452":{
+    "song_id":452,
+    "title":"Future Place",
+    "diff":[8, 14, 21, 25, -1],
+    "jacket_name":"452_future_place",
+    "band_id":1
+  },
+  "453":{
+    "song_id":453,
+    "title":"Dear Gleam",
+    "diff":[11, 15, 23, 27, -1],
+    "jacket_name":"453_dear_gleam",
+    "band_id":5
+  },
+  "454":{
+    "song_id":454,
+    "title":"だから、ひとりじゃない",
+    "diff":[7, 12, 20, 24, -1],
+    "jacket_name":"454_dakara_hitori_janai",
+    "band_id":4
+  },
+  "455":{
+    "song_id":455,
+    "title":"Nameless Story",
+    "diff":[9, 14, 22, 28, -1],
+    "jacket_name":"455_nameless_story",
+    "band_id":21
+  },
+  "456":{
+    "song_id":456,
+    "title":"Storyteller",
+    "diff":[8, 14, 20, 25, -1],
+    "jacket_name":"456_story_teller",
+    "band_id":3
+  },
+  "457":{
+    "song_id":457,
+    "title":"DEAD HEAT BEAT",
+    "diff":[11, 16, 23, 28, -1],
+    "jacket_name":"457_dead_heat_beat",
+    "band_id":18
+  },
+  "458":{
+    "song_id":458,
+    "title":"ミックスナッツ",
+    "diff":[7, 12, 21, 27, -1],
+    "jacket_name":"458_mix_nuts",
+    "band_id":3
+  },
+  "459":{
+    "song_id":459,
+    "title":"VORACITY",
+    "diff":[7, 13, 21, 26, -1],
+    "jacket_name":"459_voracity",
+    "band_id":50
+  },
+  "460":{
+    "song_id":460,
+    "title":"えがお、あーゆーれでぃ???",
+    "diff":[8, 13, 20, 25, -1],
+    "jacket_name":"460_egao_are_you_ready",
+    "band_id":3
+  },
+  "461":{
+    "song_id":461,
+    "title":"スターナイトスノウ",
+    "diff":[6, 12, 19, 25, -1],
+    "jacket_name":"461_star_night_snow",
+    "band_id":1
+  },
+  "462":{
+    "song_id":462,
+    "title":"シル・ヴ・プレジデント",
+    "diff":[7, 14, 21, 25, -1],
+    "jacket_name":"462_sil_vious_pre_ex",
+    "band_id":51
+  },
+  "463":{
+    "song_id":463,
+    "title":"もってけ！セーラーふく",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"463_motteke_sailor",
+    "band_id":53
+  },
+  "464":{
+    "song_id":464,
+    "title":"乙女はサイコパス",
+    "diff":[8, 13, 20, 26, -1],
+    "jacket_name":"464_otome_psychopath",
+    "band_id":52
+  },
+  "465":{
+    "song_id":465,
+    "title":"群青",
+    "diff":[8, 14, 20, 25, -1],
+    "jacket_name":"465_gunjo",
+    "band_id":55
+  },
+  "466":{
+    "song_id":466,
+    "title":"フォニイ",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"466_phony",
+    "band_id":54
+  },
+  "467":{
+    "song_id":467,
+    "title":"閃光",
+    "diff":[8, 14, 22, 27, -1],
+    "jacket_name":"467_senkou_alexandros",
+    "band_id":57
+  },
+  "468":{
+    "song_id":468,
+    "title":"転生林檎",
+    "diff":[7, 15, 22, 26, -1],
+    "jacket_name":"468_tensei_ringo",
+    "band_id":56
+  },
+  "469":{
+    "song_id":469,
+    "title":"Five Letters",
+    "diff":[5, 13, 20, 25, -1],
+    "jacket_name":"469_five_letters",
+    "band_id":1
+  },
+  "470":{
+    "song_id":470,
+    "title":"IGNITE GLOW",
+    "diff":[7, 13, 21, 26, 28],
+    "jacket_name":"470_ignite_glow",
+    "band_id":2
+  },
+  "471":{
+    "song_id":471,
+    "title":"Sweet Cheers!",
+    "diff":[7, 13, 21, 25, -1],
+    "jacket_name":"471_sweet_cheers",
+    "band_id":21
+  },
+  "472":{
+    "song_id":472,
+    "title":"ようこそジャパリパークへ",
+    "diff":[6, 14, 21, 25, -1],
+    "jacket_name":"472_japari_park",
+    "band_id":3
+  },
+  "473":{
+    "song_id":473,
+    "title":"一逢のFull Glory",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"473_ichie_full_glory",
+    "band_id":5
+  },
+  "474":{
+    "song_id":474,
+    "title":"YELL",
+    "diff":[6, 12, 19, 23, -1],
+    "jacket_name":"474_yell",
+    "band_id":58
+  },
+  "475":{
+    "song_id":475,
+    "title":"See you! 〜それぞれの明日へ〜",
+    "diff":[6, 12, 19, 24, -1],
+    "jacket_name":"475_see_you_ashita",
+    "band_id":58
+  },
+  "476":{
+    "song_id":476,
+    "title":"RiNG A BELL",
+    "diff":[7, 14, 20, 25, -1],
+    "jacket_name":"476_ring_a_bell",
+    "band_id":1
+  },
+  "477":{
+    "song_id":477,
+    "title":"新時代",
+    "diff":[7, 13, 20, 26, -1],
+    "jacket_name":"477_shinjidai",
+    "band_id":5
+  },
+  "478":{
+    "song_id":478,
+    "title":"五等分の気持ち",
+    "diff":[7, 13, 21, 26, -1],
+    "jacket_name":"478_gotobun",
+    "band_id":59
+  },
+  "479":{
+    "song_id":479,
+    "title":"命に嫌われている。",
+    "diff":[8, 13, 21, 27, -1],
+    "jacket_name":"479_inochi_ni_kiraware",
+    "band_id":2
+  },
+  "480":{
+    "song_id":480,
+    "title":"＊ ～アスタリスク～",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"480_asterisk",
+    "band_id":1
+  },
+  "481":{
+    "song_id":481,
+    "title":"ALIVE",
+    "diff":[9, 13, 21, 25, -1],
+    "jacket_name":"481_alive",
+    "band_id":21
+  },
+  "482":{
+    "song_id":482,
+    "title":"ダーリンダンス",
+    "diff":[8, 15, 22, 27, -1],
+    "jacket_name":"482_darling_dance",
+    "band_id":3
+  },
+  "483":{
+    "song_id":483,
+    "title":"神っぽいな",
+    "diff":[8, 15, 23, 27, -1],
+    "jacket_name":"483_kami_poina",
+    "band_id":18
+  },
+  "484":{
+    "song_id":484,
+    "title":"キズナミュージック♪（支持3D演出模式）",
+    "diff":[9, 14, 20, 24, 26],
+    "jacket_name":"484_kizuna_music_long",
+    "band_id":1
+  },
+  "485":{
+    "song_id":485,
+    "title":"Glee! Glee! Glee!",
+    "diff":[8, 13, 20, 25, -1],
+    "jacket_name":"485_glee_ glee_ glee",
+    "band_id":6
+  },
+  "486":{
+    "song_id":486,
+    "title":"[超高难易度 新SPECIAL] HELL! or HELL?",
+    "diff":[11, 16, 25, 28, 33],
+    "jacket_name":"486_hell_or_hell_super",
+    "band_id":60
+  },
+  "487":{
+    "song_id":487,
+    "title":"[超高难易度 新SPECIAL] 六兆年と一夜物語",
+    "diff":[8, 14, 23, 29, 35],
+    "jacket_name":"487_ichiyamonogatari_super",
+    "band_id":61
+  },
+  "488":{
+    "song_id":488,
+    "title":"Made My Day",
+    "diff":[9, 14, 21, 27, -1],
+    "jacket_name":"488_made_my_day",
+    "band_id":2
+  },
+  "489":{
+    "song_id":489,
+    "title":"迷星叫",
+    "diff":[6, 13, 19, 26, 27],
+    "jacket_name":"489_mayoiuta",
+    "band_id":45
+  },
+  "490":{
+    "song_id":490,
+    "title":"新しい季節に",
+    "diff":[8, 14, 21, 25, -1],
+    "jacket_name":"490_atarashii_kisetuni",
+    "band_id":1
+  },
+  "491":{
+    "song_id":491,
+    "title":"花呼ぶ声",
+    "diff":[8, 15, 21, 27, -1],
+    "jacket_name":"491_hana_yobu_koe",
+    "band_id":62
+  },
+  "492":{
+    "song_id":492,
+    "title":"Call the shots",
+    "diff":[9, 15, 22, 28, -1],
+    "jacket_name":"492_call_the_shots",
+    "band_id":5
+  },
+  "493":{
+    "song_id":493,
+    "title":"最強☆ソング",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"493_saikyo_song",
+    "band_id":1
+  },
+  "494":{
+    "song_id":494,
+    "title":"ヒロイン育成計画",
+    "diff":[7, 14, 20, 25, -1],
+    "jacket_name":"494_heroine_keikaku",
+    "band_id":1
+  },
+  "495":{
+    "song_id":495,
+    "title":"DANCING DARING",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"495_dancing_daring",
+    "band_id":18
+  },
+  "496":{
+    "song_id":496,
+    "title":"少女レイ",
+    "diff":[7, 13, 20, 26, -1],
+    "jacket_name":"496_syojo_rei",
+    "band_id":63
+  },
+  "497":{
+    "song_id":497,
+    "title":"チューリングラブ",
+    "diff":[7, 14, 21, 26, -1],
+    "jacket_name":"497_turing_love",
+    "band_id":64
+  },
+  "498":{
+    "song_id":498,
+    "title":"踊",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"498_odo",
+    "band_id":25
+  },
+  "499":{
+    "song_id":499,
+    "title":"アイウエ",
+    "diff":[7, 13, 21, 26, -1],
+    "jacket_name":"499_aiue",
+    "band_id":3
+  },
+  "500":{
+    "song_id":500,
+    "title":"Angel's Ladder",
+    "diff":[9, 15, 22, 27, -1],
+    "jacket_name":"500_angels_ladder",
+    "band_id":21
+  },
+  "501":{
+    "song_id":501,
+    "title":"惑星ループ",
+    "diff":[8, 13, 20, 26, -1],
+    "jacket_name":"501_wakusei_loop",
+    "band_id":65
+  },
+  "502":{
+    "song_id":502,
+    "title":"心絵",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"502_kokoroe",
+    "band_id":1
+  },
+  "503":{
+    "song_id":503,
+    "title":"酔いどれ知らず",
+    "diff":[9, 15, 22, 26, -1],
+    "jacket_name":"503_yoidore",
+    "band_id":5
+  },
+  "504":{
+    "song_id":504,
+    "title":"キミを れっつ・はぶ・ふぁん♪",
+    "diff":[10, 15, 21, 26, -1],
+    "jacket_name":"504_lets_have_fun",
+    "band_id":3
+  },
+  "505":{
+    "song_id":505,
+    "title":"-N-E-M-E-S-I-S-",
+    "diff":[7, 14, 21, 26, -1],
+    "jacket_name":"505_nemesis",
+    "band_id":18
+  },
+  "506":{
+    "song_id":506,
+    "title":"ダンスホール",
+    "diff":[7, 13, 19, 25, -1],
+    "jacket_name":"506_dance_hall",
+    "band_id":3
+  },
+  "507":{
+    "song_id":507,
+    "title":"CHAINSAW BLOOD",
+    "diff":[9, 14, 21, 25, -1],
+    "jacket_name":"507_chainsaw_blood",
+    "band_id":2
+  },
+  "508":{
+    "song_id":508,
+    "title":"ファイトソング",
+    "diff":[7, 12, 23, 26, -1],
+    "jacket_name":"508_fight_song",
+    "band_id":5
+  },
+  "509":{
+    "song_id":509,
+    "title":"オドループ",
+    "diff":[7, 14, 21, 26, -1],
+    "jacket_name":"509_oddloop",
+    "band_id":1
+  },
+  "510":{
+    "song_id":510,
+    "title":"ペトリコール・オベーション",
+    "diff":[9, 15, 21, 26, -1],
+    "jacket_name":"510_petrichor",
+    "band_id":2
+  },
+  "511":{
+    "song_id":511,
+    "title":"Sunlit Musical",
+    "diff":[7, 12, 22, 26, -1],
+    "jacket_name":"511_sunlit_musical",
+    "band_id":5
+  },
+  "512":{
+    "song_id":512,
+    "title":"壱雫空",
+    "diff":[8, 14, 21, 26, 29],
+    "jacket_name":"512_hitoshizuku",
+    "band_id":45
+  },
+  "513":{
+    "song_id":513,
+    "title":"栞",
+    "diff":[7, 12, 19, 23, -1],
+    "jacket_name":"513_shiori",
+    "band_id":45
+  },
+  "514":{
+    "song_id":514,
+    "title":"QUEEN",
+    "diff":[7, 13, 21, 26, -1],
+    "jacket_name":"514_queen",
+    "band_id":21
+  },
+  "515":{
+    "song_id":515,
+    "title":"碧天伴走",
+    "diff":[8, 14, 22, 27, -1],
+    "jacket_name":"515_hekiten_bansou",
+    "band_id":45
+  },
+  "516":{
+    "song_id":516,
+    "title":"Get Wild",
+    "diff":[7, 12, 20, 25, -1],
+    "jacket_name":"516_get_wild",
+    "band_id":18
+  },
+  "517":{
+    "song_id":517,
+    "title":"愛のしるし",
+    "diff":[6, 11, 18, 22, -1],
+    "jacket_name":"517_ai_no_shirushi",
+    "band_id":3
+  },
+  "518":{
+    "song_id":518,
+    "title":"HOT LIMIT",
+    "diff":[5, 12, 22, 25, -1],
+    "jacket_name":"518_hot_limit",
+    "band_id":1
+  },
+  "519":{
+    "song_id":519,
+    "title":"私色きらめき日和",
+    "diff":[7, 12, 22, 25, -1],
+    "jacket_name":"519_watashi_iro",
+    "band_id":66
+  },
+  "520":{
+    "song_id":520,
+    "title":"Ever Sky Blue",
+    "diff":[7, 12, 21, 26, -1],
+    "jacket_name":"520_ever_sky_blue",
+    "band_id":21
+  },
+  "521":{
+    "song_id":521,
+    "title":"極彩色",
+    "diff":[7, 12, 21, 26, -1],
+    "jacket_name":"521_goku_sai_siki",
+    "band_id":2
+  },
+  "522":{
+    "song_id":522,
+    "title":"詩超絆",
+    "diff":[7, 14, 20, 26, -1],
+    "jacket_name":"522_utakotoba",
+    "band_id":45
+  },
+  "523":{
+    "song_id":523,
+    "title":"ボクらの夏's☆ショーたいむっ！！",
+    "diff":[7, 14, 21, 26, -1],
+    "jacket_name":"523_bokurano_natsu",
+    "band_id":3
+  },
+  "524":{
+    "song_id":524,
+    "title":"ふぁいぶスマイル◯オールインっ！",
+    "diff":[7, 12, 20, 27, -1],
+    "jacket_name":"524_five_smile_all_in",
+    "band_id":3
+  },
+  "525":{
+    "song_id":525,
+    "title":"迷路日々",
+    "diff":[7, 14, 21, 26, -1],
+    "jacket_name":"525_melody",
+    "band_id":45
+  },
+  "526":{
+    "song_id":526,
+    "title":"燦々",
+    "diff":[11, 16, 24, 28, -1],
+    "jacket_name":"526_sansan",
+    "band_id":2
+  },
+  "527":{
+    "song_id":527,
+    "title":"ほな！",
+    "diff":[9, 15, 23, 27, -1],
+    "jacket_name":"527_hona",
+    "band_id":1
+  },
+  "528":{
+    "song_id":528,
+    "title":"優勝 feat.Afterglow",
+    "diff":[7, 14, 21, 25, -1],
+    "jacket_name":"528_yusho",
+    "band_id":38
+  },
+  "529":{
+    "song_id":529,
+    "title":"チルドレンレコード(Re:boot)",
+    "diff":[9, 15, 24, 27, -1],
+    "jacket_name":"529_children_record_r",
+    "band_id":2
+  },
+  "530":{
+    "song_id":530,
+    "title":"音がえしのセレナーデ",
+    "diff":[6, 11, 18, 24, -1],
+    "jacket_name":"530_ongaeshi_serenade",
+    "band_id":21
+  },
+  "531":{
+    "song_id":531,
+    "title":"Ave Mujica",
+    "diff":[8, 14, 23, 28, -1],
+    "jacket_name":"531_ave_mujica",
+    "band_id":46
+  },
+  "532":{
+    "song_id":532,
+    "title":"祝福",
+    "diff":[8, 14, 22, 26, -1],
+    "jacket_name":"532_syukuhuku",
+    "band_id":21
+  },
+  "533":{
+    "song_id":533,
+    "title":"可愛くてごめん",
+    "diff":[8, 13, 19, 25, -1],
+    "jacket_name":"533_kawaikute_gomen",
+    "band_id":67
+  },
+  "534":{
+    "song_id":534,
+    "title":"エゴロック",
+    "diff":[8, 14, 23, 28, -1],
+    "jacket_name":"534_ego_rock",
+    "band_id":3
+  },
+  "535":{
+    "song_id":535,
+    "title":"D-tecnoLife",
+    "diff":[6, 13, 21, 26, -1],
+    "jacket_name":"535_d_tecnolife",
+    "band_id":18
+  },
+  "536":{
+    "song_id":536,
+    "title":"サウダージ",
+    "diff":[7, 13, 20, 26, -1],
+    "jacket_name":"536_saudade",
+    "band_id":2
+  },
+  "537":{
+    "song_id":537,
+    "title":"ヒバナ-Reloaded-",
+    "diff":[9, 15, 24, 29, -1],
+    "jacket_name":"537_hibana_reloaded",
+    "band_id":5
+  },
+  "538":{
+    "song_id":538,
+    "title":"トウキョウ・シャンディ・ランデヴ",
+    "diff":[7, 13, 22, 26, -1],
+    "jacket_name":"538_tokyo_shandy_rendez_vous",
+    "band_id":1
+  },
+  "539":{
+    "song_id":539,
+    "title":"Be born",
+    "diff":[8, 14, 22, 27, -1],
+    "jacket_name":"539_be_born",
+    "band_id":68
+  },
+  "540":{
+    "song_id":540,
+    "title":"影色舞",
+    "diff":[7, 13, 22, 26, -1],
+    "jacket_name":"540_silhouette_dance",
+    "band_id":45
+  },
+  "542":{
+    "song_id":542,
+    "title":"歌いましょう鳴らしましょう",
+    "diff":[7, 13, 22, 26, -1],
+    "jacket_name":"542_utai_narashi",
+    "band_id":45
+  },
+  "543":{
+    "song_id":543,
+    "title":"THRONE OF ROSE",
+    "diff":[9, 14, 21, 27, -1],
+    "jacket_name":"543_thron_of_rose",
+    "band_id":5
+  },
+  "544":{
+    "song_id":544,
+    "title":"聖少女領域",
+    "diff":[7, 13, 21, 25, -1],
+    "jacket_name":"544_sei_syoujo_ryouiki",
+    "band_id":69
+  },
+  "545":{
+    "song_id":545,
+    "title":"猛独が襲う",
+    "diff":[7, 14, 21, 25, 26],
+    "jacket_name":"545_modoku_ga_osou",
+    "band_id":45
+  },
+  "546":{
+    "song_id":546,
+    "title":"swim",
+    "diff":[8, 14, 23, 26, -1],
+    "jacket_name":"546_swim",
+    "band_id":45
+  },
+  "547":{
+    "song_id":547,
+    "title":"ヴィラン",
+    "diff":[6, 13, 19, 25, -1],
+    "jacket_name":"547_villain",
+    "band_id":2
+  },
+  "548":{
+    "song_id":548,
+    "title":"everyday flower",
+    "diff":[7, 12, 19, 25, -1],
+    "jacket_name":"548_everyday_flower",
+    "band_id":4
+  },
+  "549":{
+    "song_id":549,
+    "title":"BATTLE CRY",
+    "diff":[7, 13, 21, 27, -1],
+    "jacket_name":"549_battlecry",
+    "band_id":18
+  },
+  "550":{
+    "song_id":550,
+    "title":"裸の勇者",
+    "diff":[6, 13, 20, 26, -1],
+    "jacket_name":"550_hadakano_yusha",
+    "band_id":18
+  },
+  "551":{
+    "song_id":551,
+    "title":"That's why I'm here",
+    "diff":[7, 14, 21, 26, -1],
+    "jacket_name":"551_thats_why_im_here",
+    "band_id":2
+  },
+  "552":{
+    "song_id":552,
+    "title":"テレキャスタービーボーイ",
+    "diff":[9, 15, 23, 26, 28],
+    "jacket_name":"552_telecaster_b_boy",
+    "band_id":2
+  },
+  "553":{
+    "song_id":553,
+    "title":"処救生",
+    "diff":[6, 14, 20, 25, -1],
+    "jacket_name":"553_kokyu",
+    "band_id":45
+  },
+  "554":{
+    "song_id":554,
+    "title":"Chu Chueen!",
+    "diff":[7, 14, 24, 28, -1],
+    "jacket_name":"554_chu_chueen",
+    "band_id":1
+  },
+  "555":{
+    "song_id":555,
+    "title":"Merry Merry Thanks!!",
+    "diff":[7, 13, 19, 25, -1],
+    "jacket_name":"555_merry_merry_thanks",
+    "band_id":21
+  },
+  "556":{
+    "song_id":556,
+    "title":"東京テディベア",
+    "diff":[6, 12, 20, 26, 28],
+    "jacket_name":"556_tokyo_teddy_bear",
+    "band_id":5
+  },
+  "557":{
+    "song_id":557,
+    "title":"青春 To Be Continued",
+    "diff":[7, 14, 21, 25, -1],
+    "jacket_name":"557_seisyun_to_be",
+    "band_id":1
+  },
+  "558":{
+    "song_id":558,
+    "title":"覚悟のLiberation",
+    "diff":[7, 13, 20, 26, -1],
+    "jacket_name":"558_kakugo_liberation",
+    "band_id":5
+  },
+  "559":{
+    "song_id":559,
+    "title":"らいふ・いず・みゅーじかるっ♪♪♪",
+    "diff":[6, 12, 19, 25, -1],
+    "jacket_name":"559_life_is_musical",
+    "band_id":3
+  },
+  "560":{
+    "song_id":560,
+    "title":"擬態ごっこ",
+    "diff":[7, 13, 21, 27, -1],
+    "jacket_name":"560_gitai_gokko",
+    "band_id":70
+  },
+  "561":{
+    "song_id":561,
+    "title":"Stellar Stellar",
+    "diff":[6, 12, 18, 26, -1],
+    "jacket_name":"561_stellar_stellar",
+    "band_id":71
+  },
+  "562":{
+    "song_id":562,
+    "title":"粉雪",
+    "diff":[7, 12, 18, 22, -1],
+    "jacket_name":"562_konayuki",
+    "band_id":2
+  },
+  "563":{
+    "song_id":563,
+    "title":"Overdose",
+    "diff":[6, 12, 19, 25, -1],
+    "jacket_name":"563_overdose",
+    "band_id":21
+  },
+  "564":{
+    "song_id":564,
+    "title":"魔法少女とチョコレゐト",
+    "diff":[7, 13, 20, 27, -1],
+    "jacket_name":"564_mahoshojo_choco",
+    "band_id":4
+  },
+  "565":{
+    "song_id":565,
+    "title":"slash",
+    "diff":[6, 11, 19, 24, -1],
+    "jacket_name":"565_slash",
+    "band_id":5
+  },
+  "566":{
+    "song_id":566,
+    "title":"私は最強",
+    "diff":[7, 12, 20, 25, -1],
+    "jacket_name":"566_watashi_ha_saikyo",
+    "band_id":1
+  },
+  "567":{
+    "song_id":567,
+    "title":"強風オールバック",
+    "diff":[6, 13, 19, 25, -1],
+    "jacket_name":"567_kyohu_allback",
+    "band_id":3
+  },
+  "568":{
+    "song_id":568,
+    "title":"ホワイトノイズ",
+    "diff":[7, 12, 19, 25, -1],
+    "jacket_name":"568_white_noise",
+    "band_id":45
+  },
+  "569":{
+    "song_id":569,
+    "title":"カオスが極まる",
+    "diff":[10, 16, 24, 27, -1],
+    "jacket_name":"569_chaos_kiwamaru",
+    "band_id":2
+  },
+  "570":{
+    "song_id":570,
+    "title":"第ゼロ感",
+    "diff":[6, 12, 19, 25, -1],
+    "jacket_name":"570_dai_zero_kan",
+    "band_id":18
+  },
+  "571":{
+    "song_id":571,
+    "title":"グッド・バイ",
+    "diff":[7, 13, 21, 26, -1],
+    "jacket_name":"571_good_bye",
+    "band_id":75
+  },
+  "572":{
+    "song_id":572,
+    "title":"Radiate Warriors",
+    "diff":[7, 12, 20, 25, -1],
+    "jacket_name":"572_radiate_warriors",
+    "band_id":4
+  },
+  "573":{
+    "song_id":573,
+    "title":"Fleur",
+    "diff":[7, 12, 19, 25, -1],
+    "jacket_name":"573_fleur",
+    "band_id":73
+  },
+  "574":{
+    "song_id":574,
+    "title":"Ahoy!! 我ら宝鐘海賊団☆",
+    "diff":[8, 14, 22, 26, -1],
+    "jacket_name":"574_ahoy_kaizokudan",
+    "band_id":72
+  },
+  "575":{
+    "song_id":575,
+    "title":"Lioness' Pride",
+    "diff":[7, 12, 19, 25, -1],
+    "jacket_name":"575_lioness_pride",
+    "band_id":74
+  },
+  "576":{
+    "song_id":576,
+    "title":"合縁事変",
+    "diff":[7, 12, 18, 26, -1],
+    "jacket_name":"576_aien_jihen",
+    "band_id":76
+  },
+  "577":{
+    "song_id":577,
+    "title":"A Sunset So Bright",
+    "diff":[10, 15, 23, 26, -1],
+    "jacket_name":"577_a_sunset_so_bright",
+    "band_id":2
+  },
+  "578":{
+    "song_id":578,
+    "title":"どりーみんチュチュ",
+    "diff":[8, 13, 19, 24, -1],
+    "jacket_name":"578_dreamin_chuchu",
+    "band_id":77
+  },
+  "579":{
+    "song_id":579,
+    "title":"Ray of hope",
+    "diff":[6, 11, 21, 26, -1],
+    "jacket_name":"579_ray_of_hope",
+    "band_id":18
+  },
+  "580":{
+    "song_id":580,
+    "title":"輪符雨",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"580_refrain",
+    "band_id":45
+  },
+  "581":{
+    "song_id":581,
+    "title":"蒼穹へのトレイル",
+    "diff":[9, 14, 20, 27, -1],
+    "jacket_name":"581_sokyu_trail",
+    "band_id":21
+  },
+  "582":{
+    "song_id":582,
+    "title":"ドラマチック！アライブ",
+    "diff":[9, 12, 20, 26, -1],
+    "jacket_name":"582_dramatic_alive",
+    "band_id":4
+  },
+  "583":{
+    "song_id":583,
+    "title":"ReReReエボリューションず☆",
+    "diff":[7, 12, 19, 25, -1],
+    "jacket_name":"583_rerere_evolutions",
+    "band_id":4
+  },
+  "584":{
+    "song_id":584,
+    "title":"VIOLET LINE",
+    "diff":[8, 14, 24, 29, -1],
+    "jacket_name":"584_violet_line",
+    "band_id":5
+  },
+  "585":{
+    "song_id":585,
+    "title":"Always recall.",
+    "diff":[7, 14, 20, 27, -1],
+    "jacket_name":"585_always_recall",
+    "band_id":5
+  },
+  "586":{
+    "song_id":586,
+    "title":"誓いのWingbeat",
+    "diff":[11, 16, 25, 28, 30],
+    "jacket_name":"586_wing_beat",
+    "band_id":21
+  },
+  "587":{
+    "song_id":587,
+    "title":"アイドル",
+    "diff":[9, 14, 21, 25, -1],
+    "jacket_name":"587_idol",
+    "band_id":4
+  },
+  "588":{
+    "song_id":588,
+    "title":"青のすみか",
+    "diff":[8, 12, 20, 25, -1],
+    "jacket_name":"588_ao_no_sumika",
+    "band_id":2
+  },
+  "589":{
+    "song_id":589,
+    "title":"乙女解剖",
+    "diff":[8, 13, 19, 25, -1],
+    "jacket_name":"589_otomekaibou",
+    "band_id":5
+  },
+  "590":{
+    "song_id":590,
+    "title":"ノンブレス・オブリージュ",
+    "diff":[9, 14, 21, 27, -1],
+    "jacket_name":"590_non_breath",
+    "band_id":45
+  },
+  "591":{
+    "song_id":591,
+    "title":"きゅうくらりん",
+    "diff":[8, 14, 22, 27, -1],
+    "jacket_name":"591_kyukurarin",
+    "band_id":3
+  },
+  "592":{
+    "song_id":592,
+    "title":"かくれんぼ",
+    "diff":[9, 13, 19, 25, -1],
+    "jacket_name":"592_kakurenbo",
+    "band_id":21
+  },
+  "593":{
+    "song_id":593,
+    "title":"ボッカデラベリタ",
+    "diff":[6, 12, 19, 26, -1],
+    "jacket_name":"593_bocca",
+    "band_id":18
+  },
+  "594":{
+    "song_id":594,
+    "title":"怪獣の花唄",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"594_kaiju_no_hanauta",
+    "band_id":1
+  },
+  "595":{
+    "song_id":595,
+    "title":"「僕は...」",
+    "diff":[6, 13, 19, 25, -1],
+    "jacket_name":"595_bokuha",
+    "band_id":45
+  },
+  "596":{
+    "song_id":596,
+    "title":"[超高难易度 新SPECIAL] SENSENFUKOKU",
+    "diff":[9, 15, 21, 28, 33],
+    "jacket_name":"596_sensenfukoku_super",
+    "band_id":78
+  },
+  "597":{
+    "song_id":597,
+    "title":"[超高难易度 新SPECIAL] HELL! or HELL?",
+    "diff":[11, 16, 25, 28, 33],
+    "jacket_name":"597_hell_or_hell_super",
+    "band_id":60
+  },
+  "598":{
+    "song_id":598,
+    "title":"[超高难易度 新SPECIAL] 六兆年と一夜物語",
+    "diff":[8, 14, 23, 29, 35],
+    "jacket_name":"598_ichiyamonogatari_super",
+    "band_id":61
+  },
+  "599":{
+    "song_id":599,
+    "title":"トレモロアイズ",
+    "diff":[7, 13, 19, 24, -1],
+    "jacket_name":"599_tremolo_eyes",
+    "band_id":1
+  },
+  "600":{
+    "song_id":600,
+    "title":"むすんでわらって",
+    "diff":[6, 12, 20, 26, -1],
+    "jacket_name":"600_musunde_waratte",
+    "band_id":3
+  },
+  "601":{
+    "song_id":601,
+    "title":"両翼のBrilliance",
+    "diff":[7, 14, 20, 26, -1],
+    "jacket_name":"601_ryoyoku_brilliance",
+    "band_id":21
+  },
+  "602":{
+    "song_id":602,
+    "title":"Life on the Lotus",
+    "diff":[7, 13, 21, 27, -1],
+    "jacket_name":"602_life_on_the_lotus",
+    "band_id":18
+  },
+  "603":{
+    "song_id":603,
+    "title":"フレっとパレットFight Song!!",
+    "diff":[7, 13, 19, 25, -1],
+    "jacket_name":"603_furetto_palette",
+    "band_id":4
+  },
+  "604":{
+    "song_id":604,
+    "title":"トリドリ＊パレット",
+    "diff":[8, 13, 20, 24, -1],
+    "jacket_name":"604_toridori_palette",
+    "band_id":4
+  },
+  "605":{
+    "song_id":605,
+    "title":"メランコリックララバイ",
+    "diff":[8, 14, 21, 25, -1],
+    "jacket_name":"605_melancholic_lullaby",
+    "band_id":21
+  },
+  "606":{
+    "song_id":606,
+    "title":"V.I.P MONSTER",
+    "diff":[8, 14, 23, 28, -1],
+    "jacket_name":"606_vip_monster",
+    "band_id":18
+  },
+  "607":{
+    "song_id":607,
+    "title":"サンバロハッピ〜！",
+    "diff":[6, 12, 19, 25, -1],
+    "jacket_name":"607_sun_hello_happy",
+    "band_id":3
+  },
+  "608":{
+    "song_id":608,
+    "title":"SOUVENIR",
+    "diff":[6, 13, 20, 25, -1],
+    "jacket_name":"608_souvenir",
+    "band_id":1
+  },
+  "609":{
+    "song_id":609,
+    "title":"Floral Haven",
+    "diff":[9, 14, 22, 27, -1],
+    "jacket_name":"609_floral_haven",
+    "band_id":5
+  },
+  "610":{
+    "song_id":610,
+    "title":"逆光",
+    "diff":[6, 12, 19, 26, -1],
+    "jacket_name":"610_gyakkou",
+    "band_id":2
+  },
+  "611":{
+    "song_id":611,
+    "title":"Glowing After",
+    "diff":[7, 13, 21, 26, -1],
+    "jacket_name":"611_glowing_after",
+    "band_id":2
+  },
+  "612":{
+    "song_id":612,
+    "title":"Wreath of Brave",
+    "diff":[6, 13, 21, 26, -1],
+    "jacket_name":"612_wreath_of_brave",
+    "band_id":21
+  },
+  "613":{
+    "song_id":613,
+    "title":"ギミー！レボリューション",
+    "diff":[9, 13, 21, 25, -1],
+    "jacket_name":"613_gimme_revo",
+    "band_id":3
+  },
+  "614":{
+    "song_id":614,
+    "title":"雨上がり、キミと",
+    "diff":[7, 12, 20, 26, -1],
+    "jacket_name":"614_ameagari_kimi",
+    "band_id":1
+  },
+  "615":{
+    "song_id":615,
+    "title":"SOULSOUP",
+    "diff":[7, 13, 22, 27, -1],
+    "jacket_name":"615_soul_soup",
+    "band_id":18
+  },
+  "616":{
+    "song_id":616,
+    "title":"Sage der Rosen",
+    "diff":[8, 12, 23, 26, -1],
+    "jacket_name":"616_sage_der_rosen",
+    "band_id":5
+  },
+  "617":{
+    "song_id":617,
+    "title":"ココ☆ナツ",
+    "diff":[8, 14, 20, 26, -1],
+    "jacket_name":"617_koko_natsu",
+    "band_id":4
+  },
+  "618":{
+    "song_id":618,
+    "title":"礎の花冠",
+    "diff":[7, 15, 21, 26, -1],
+    "jacket_name":"618_ishizue_hanakanmuri",
+    "band_id":5
+  },
+  "619":{
+    "song_id":619,
+    "title":"Listen to Smile!",
+    "diff":[7, 12, 19, 24, -1],
+    "jacket_name":"619_listen_to_smile",
+    "band_id":3
+  },
+  "620":{
+    "song_id":620,
+    "title":"Surges",
+    "diff":[7, 12, 24, 27, -1],
+    "jacket_name":"620_surges",
+    "band_id":19
+  },
+  "621":{
+    "song_id":621,
+    "title":"With〜きみとわたしたちの物語〜",
+    "diff":[7, 15, 19, 25, -1],
+    "jacket_name":"621_with_kimi_watashi",
+    "band_id":4
+  },
+  "622":{
+    "song_id":622,
+    "title":"Start as Usual",
+    "diff":[7, 14, 21, 26, -1],
+    "jacket_name":"622_sart_as_usual",
+    "band_id":2
+  },
+  "623":{
+    "song_id":623,
+    "title":"Bad Kids All Bet",
+    "diff":[7, 12, 20, 25, -1],
+    "jacket_name":"623_bad_kid_all_bet",
+    "band_id":18
+  },
+  "624":{
+    "song_id":624,
+    "title":"名無声",
+    "diff":[7, 13, 20, 27, -1],
+    "jacket_name":"624_namonaki",
+    "band_id":45
+  },
+  "625":{
+    "song_id":625,
+    "title":"花咲く未来に",
+    "diff":[6, 12, 21, 25, -1],
+    "jacket_name":"625_hanasaku_miraini",
+    "band_id":1
+  },
+  "626":{
+    "song_id":626,
+    "title":"ちゅ、多様性。",
+    "diff":[6, 13, 20, 25, -1],
+    "jacket_name":"626_chu_tayosei",
+    "band_id":1
+  },
+  "627":{
+    "song_id":627,
+    "title":"勇者",
+    "diff":[6, 12, 20, 25, -1],
+    "jacket_name":"627_yusha",
+    "band_id":21
+  },
+  "628":{
+    "song_id":628,
+    "title":"オトナブルー",
+    "diff":[7, 12, 20, 25, -1],
+    "jacket_name":"628_otona_blue",
+    "band_id":4
+  },
+  "629":{
+    "song_id":629,
+    "title":"人マニア",
+    "diff":[7, 12, 20, 26, -1],
+    "jacket_name":"629_hito_mania",
+    "band_id":5
+  },
+  "630":{
+    "song_id":630,
+    "title":"クラクラ",
+    "diff":[7, 13, 20, 26, -1],
+    "jacket_name":"630_kurakura",
+    "band_id":3
+  },
+  "631":{
+    "song_id":631,
+    "title":"Bling-Bang-Bang-Born",
+    "diff":[7, 14, 21, 26, -1],
+    "jacket_name":"631_bing_bang",
+    "band_id":18
+  },
+  "632":{
+    "song_id":632,
+    "title":"カゲロウデイズ",
+    "diff":[7, 13, 22, 26, -1],
+    "jacket_name":"632_kagero_days",
+    "band_id":2
+  },
+  "633":{
+    "song_id":633,
+    "title":"雑踏、僕らの街",
+    "diff":[9, 15, 24, 28, -1],
+    "jacket_name":"633_zatto",
+    "band_id":45
+  },
+  "634":{
+    "song_id":634,
+    "title":"輪舞-revolution",
+    "diff":[7, 12, 19, 25, -1],
+    "jacket_name":"634_rondo",
+    "band_id":21
+  },
+  "635":{
+    "song_id":635,
+    "title":"過惰幻",
+    "diff":[5, 11, 18, 23, -1],
+    "jacket_name":"635_adayume",
+    "band_id":45
+  },
+  "636":{
+    "song_id":636,
+    "title":"ティリカモニカリラ",
+    "diff":[8, 14, 19, 27, -1],
+    "jacket_name":"636_tirica_monicalira",
+    "band_id":21
+  },
+  "637":{
+    "song_id":637,
+    "title":"サインはB",
+    "diff":[7, 14, 23, 26, -1],
+    "jacket_name":"637_sign_b",
+    "band_id":4
+  },
+  "638":{
+    "song_id":638,
+    "title":"FRONTIER FANTASIA",
+    "diff":[7, 13, 20, 26, -1],
+    "jacket_name":"638_frontier_fantasia",
+    "band_id":5
+  },
+  "639":{
+    "song_id":639,
+    "title":"ファタール",
+    "diff":[7, 14, 22, 27, -1],
+    "jacket_name":"639_fatale",
+    "band_id":5
+  },
+  "640":{
+    "song_id":640,
+    "title":"すきっちゅーの！",
+    "diff":[8, 13, 19, 25, -1],
+    "jacket_name":"640_suki_chuno",
+    "band_id":4
+  },
+  "641":{
+    "song_id":641,
+    "title":"ハイタッチ／＼びりーばーず☆",
+    "diff":[7, 14, 20, 25, -1],
+    "jacket_name":"641_high_touch",
+    "band_id":3
+  },
+  "642":{
+    "song_id":642,
+    "title":"歩拾道",
+    "diff":[6, 12, 19, 23, -1],
+    "jacket_name":"642_speed",
+    "band_id":45
+  },
+  "643":{
+    "song_id":643,
+    "title":"DOKI DOKI SCARY",
+    "diff":[7, 12, 21, 26, -1],
+    "jacket_name":"643_dokidoki_scary",
+    "band_id":1
+  },
+  "644":{
+    "song_id":644,
+    "title":"遥か彼方",
+    "diff":[8, 14, 21, 27, -1],
+    "jacket_name":"644_hruka_kanata",
+    "band_id":45
+  },
+  "645":{
+    "song_id":645,
+    "title":"ホワイト ノスタルジア",
+    "diff":[7, 12, 20, 24, -1],
+    "jacket_name":"645_white_nostalgia",
+    "band_id":4
+  },
+  "646":{
+    "song_id":646,
+    "title":"“Say cheese!!!!!”",
+    "diff":[7, 14, 22, 26, -1],
+    "jacket_name":"646_say_cheese",
+    "band_id":2
+  },
+  "647":{
+    "song_id":647,
+    "title":"VIVID FIRST TIME",
+    "diff":[7, 13, 23, 26, -1],
+    "jacket_name":"647_vivid_first_time",
+    "band_id":18
+  },
+  "648":{
+    "song_id":648,
+    "title":"Subtitle",
+    "diff":[6, 12, 18, 24, -1],
+    "jacket_name":"648_subtitle",
+    "band_id":45
+  },
+  "649":{
+    "song_id":649,
+    "title":"迷星叫(平行歌曲)",
+    "diff":[6, 13, 19, 26, 27],
+    "jacket_name":"649_mayoiuta_p",
+    "band_id":79
+  },
+  "650":{
+    "song_id":650,
+    "title":"TARINAI",
+    "diff":[8, 15, 21, 27, -1],
+    "jacket_name":"650_tarinai",
+    "band_id":1
+  },
+  "651":{
+    "song_id":651,
+    "title":"愛包ダンスホール",
+    "diff":[8, 13, 22, 26, -1],
+    "jacket_name":"651_ai_pai",
+    "band_id":80
+  },
+  "652":{
+    "song_id":652,
+    "title":"WELCOME TO PANDEMONIUM",
+    "diff":[7, 13, 22, 26, -1],
+    "jacket_name":"652_welcome_to_pandemonium",
+    "band_id":18
+  },
+  "653":{
+    "song_id":653,
+    "title":"幾億光年",
+    "diff":[7, 12, 19, 24, -1],
+    "jacket_name":"653_ikuoku",
+    "band_id":81
+  },
+  "654":{
+    "song_id":654,
+    "title":"Tempest",
+    "diff":[9, 15, 24, 28, -1],
+    "jacket_name":"654_tempest",
+    "band_id":21
+  },
+  "655":{
+    "song_id":655,
+    "title":"シカ色デイズ",
+    "diff":[7, 12, 22, 25, -1],
+    "jacket_name":"655_shika_iro",
+    "band_id":82
+  },
+  "656":{
+    "song_id":656,
+    "title":"STEP by STEP UP↑↑↑↑",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"656_step_by_step_up",
+    "band_id":1
+  },
+  "657":{
+    "song_id":657,
+    "title":"悪魔の子",
+    "diff":[5, 11, 18, 23, -1],
+    "jacket_name":"657_akumano_ko",
+    "band_id":40
+  },
+  "658":{
+    "song_id":658,
+    "title":"マルカリアンチェイン",
+    "diff":[6, 11, 19, 24, -1],
+    "jacket_name":"658_markarian",
+    "band_id":84
+  },
+  "659":{
+    "song_id":659,
+    "title":"KiLLKiSS",
+    "diff":[8, 15, 24, 28, -1],
+    "jacket_name":"659_kill_kiss",
+    "band_id":46
+  },
+  "660":{
+    "song_id":660,
+    "title":"Blessing Chord(平行歌曲)",
+    "diff":[8, 14, 21, 26, 27],
+    "jacket_name":"660_blessing_p",
+    "band_id":83
+  },
+  "661":{
+    "song_id":661,
+    "title":"Georgette Me, Georgette You",
+    "diff":[7, 12, 19, 25, -1],
+    "jacket_name":"661_geogette",
+    "band_id":46
+  },
+  "662":{
+    "song_id":662,
+    "title":"JUST THE WAY I AM",
+    "diff":[9, 15, 24, 27, -1],
+    "jacket_name":"662_just_the_way",
+    "band_id":18
+  },
+  "663":{
+    "song_id":663,
+    "title":"Steer to Utopia",
+    "diff":[8, 14, 24, 28, -1],
+    "jacket_name":"663_steer_to_utopia",
+    "band_id":21
+  },
+  "664":{
+    "song_id":664,
+    "title":"れっつ・スマイル・すとり〜みんぐっ♪",
+    "diff":[8, 13, 21, 26, -1],
+    "jacket_name":"664_smile_streaming",
+    "band_id":3
+  },
+  "665":{
+    "song_id":665,
+    "title":"Grateful Melting",
+    "diff":[7, 12, 21, 26, -1],
+    "jacket_name":"665_grateful_melting",
+    "band_id":5
+  },
+  "666":{
+    "song_id":666,
+    "title":"花笑みのデュオ",
+    "diff":[7, 14, 23, 27, -1],
+    "jacket_name":"666_hanaemi",
+    "band_id":2
+  },
+  "667":{
+    "song_id":667,
+    "title":"春日影",
+    "diff":[7, 13, 19, 24, -1],
+    "jacket_name":"667_haruhikage",
+    "band_id":85
+  },
+  "668":{
+    "song_id":668,
+    "title":"音一会",
+    "diff":[9, 13, 22, 26, -1],
+    "jacket_name":"668_otoichie",
+    "band_id":45
+  },
+  "669":{
+    "song_id":669,
+    "title":"とっておきAnswer",
+    "diff":[8, 13, 23, 26, -1],
+    "jacket_name":"669_totteoki",
+    "band_id":1
+  },
+  "670":{
+    "song_id":670,
+    "title":"Imprisoned XII",
+    "diff":[6, 11, 19, 24, -1],
+    "jacket_name":"670_imprisoned",
+    "band_id":46
+  },
+  "671":{
+    "song_id":671,
+    "title":"Crucifix X",
+    "diff":[7, 12, 20, 25, -1],
+    "jacket_name":"671_crucifix",
+    "band_id":46
+  },
+  "672":{
+    "song_id":672,
+    "title":"HOWLING AMBITION",
+    "diff":[7, 13, 22, 26, -1],
+    "jacket_name":"672_howling_ambition",
+    "band_id":18
+  },
+  "673":{
+    "song_id":673,
+    "title":"はいよろこんで",
+    "diff":[7, 12, 21, 26, -1],
+    "jacket_name":"673_hai_yorokonde",
+    "band_id":3
+  },
+  "674":{
+    "song_id":674,
+    "title":"ひとりじゃないんだから(平行歌曲)",
+    "diff":[7, 13, 20, 25, 26],
+    "jacket_name":"674_no_alone_p",
+    "band_id":86
+  },
+  "675":{
+    "song_id":675,
+    "title":"最上級にかわいいの！",
+    "diff":[7, 12, 22, 25, -1],
+    "jacket_name":"675_saijokyu_kawaiino",
+    "band_id":4
+  },
+  "676":{
+    "song_id":676,
+    "title":"オレンジ",
+    "diff":[7, 12, 22, 25, -1],
+    "jacket_name":"676_orange_spyair",
+    "band_id":2
+  },
+  "677":{
+    "song_id":677,
+    "title":"Reweave",
+    "diff":[8, 14, 23, 27, -1],
+    "jacket_name":"677_reweave",
+    "band_id":5
+  },
+  "678":{
+    "song_id":678,
+    "title":"フィクション",
+    "diff":[9, 12, 22, 26, -1],
+    "jacket_name":"678_fiction",
+    "band_id":1
+  },
+  "679":{
+    "song_id":679,
+    "title":"第六感",
+    "diff":[7, 12, 21, 25, -1],
+    "jacket_name":"679_dai6kan",
+    "band_id":18
+  },
+  "680":{
+    "song_id":680,
+    "title":"だれかの心臓になれたなら",
+    "diff":[9, 13, 23, 26, -1],
+    "jacket_name":"680_darekano_sinzo",
+    "band_id":45
+  },
+  "681":{
+    "song_id":681,
+    "title":"えがおのオーケストラっ！(平行歌曲)",
+    "diff":[6, 11, 18, 23, 25],
+    "jacket_name":"681_egaoke_p",
+    "band_id":87
+  },
+  "682":{
+    "song_id":682,
+    "title":"八芒星ダンス",
+    "diff":[8, 13, 22, 27, -1],
+    "jacket_name":"682_hachibousei",
+    "band_id":46
+  },
+  "683":{
+    "song_id":683,
+    "title":"聿日箋秋",
+    "diff":[8, 13, 21, 25, -1],
+    "jacket_name":"683_ichijitsu_sensyu",
+    "band_id":45
+  },
+  "684":{
+    "song_id":684,
+    "title":"焚音打",
+    "diff":[11, 16, 24, 28, 30],
+    "jacket_name":"684_tanebi",
+    "band_id":45
+  },
+  "685":{
+    "song_id":685,
+    "title":"顔",
+    "diff":[7, 12, 21, 26, -1],
+    "jacket_name":"685_kao",
+    "band_id":46
+  },
+  "686":{
+    "song_id":686,
+    "title":"天球(そら)のMúsica",
+    "diff":[8, 13, 22, 27, -1],
+    "jacket_name":"686_sora_no_mujica",
+    "band_id":46
+  },
+  "687":{
+    "song_id":687,
+    "title":"デイオフ・ラフ・ラブ・サンクス",
+    "diff":[7, 13, 19, 25, -1],
+    "jacket_name":"687_dayoff_thanks",
+    "band_id":4
+  },
+  "688":{
+    "song_id":688,
+    "title":"again",
+    "diff":[7, 12, 22, 26, -1],
+    "jacket_name":"688_again",
+    "band_id":21
+  },
+  "689":{
+    "song_id":689,
+    "title":"[期间限定 SPECIAL]ピコっと！パピっと！！ガルパ☆ピコ！！！",
+    "diff":[9, 14, 21, 26, 41],
+    "jacket_name":"689_2025_april",
+    "band_id":16
+  },
+  "690":{
+    "song_id":690,
+    "title":"Second to None",
+    "diff":[10, 15, 24, 27, -1],
+    "jacket_name":"690_second_to_none",
+    "band_id":5
+  },
+  "691":{
+    "song_id":691,
+    "title":"やっほー！いっぽ！わんだふぉー！",
+    "diff":[8, 13, 23, 26, -1],
+    "jacket_name":"691_yahho_ippo",
+    "band_id":3
+  },
+  "692":{
+    "song_id":692,
+    "title":"Portray Empathy",
+    "diff":[7, 14, 20, 26, -1],
+    "jacket_name":"692_portray_empathy",
+    "band_id":21
+  },
+  "693":{
+    "song_id":693,
+    "title":"REIGNING",
+    "diff":[8, 14, 21, 26, -1],
+    "jacket_name":"693_reigning",
+    "band_id":18
+  },
+  "694":{
+    "song_id":694,
+    "title":"Y.O.L.O！！！！！(パスパレver.)",
+    "diff":[9, 14, 23, 28, -1],
+    "jacket_name":"694_yolo_pspl",
+    "band_id":4
+  },
+  "695":{
+    "song_id":695,
+    "title":"Bunny Girl",
+    "diff":[7, 14, 19, 25, -1],
+    "jacket_name":"695_bunny_girl",
+    "band_id":2
+  },
+  "696":{
+    "song_id":696,
+    "title":"Dazzle the Destiny",
+    "diff":[8, 14, 21, 27, -1],
+    "jacket_name":"696_dazzle_the_destiny",
+    "band_id":5
+  },
+  "697":{
+    "song_id":697,
+    "title":"最高到達点",
+    "diff":[7, 12, 19, 24, -1],
+    "jacket_name":"697_saiko_totatsu",
+    "band_id":3
+  },
+  "698":{
+    "song_id":698,
+    "title":"潜在表明",
+    "diff":[6, 13, 20, 25, -1],
+    "jacket_name":"698_senzai_hyomei",
+    "band_id":45
+  },
+  "699":{
+    "song_id":699,
+    "title":"雪華は無常に微笑む",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"699_sekka_mujo",
+    "band_id":88
+  },
+  "700":{
+    "song_id":700,
+    "title":"Against the Light",
+    "diff":[9, 15, 23, 27, -1],
+    "jacket_name":"700_against_the_light",
+    "band_id":2
+  },
+  "701":{
+    "song_id":701,
+    "title":"Tomorrow's Door",
+    "diff":[7, 13, 22, 25, -1],
+    "jacket_name":"701_tomorrows_door",
+    "band_id":1
+  },
+  "702":{
+    "song_id":702,
+    "title":"愛唄",
+    "diff":[6, 11, 19, 24, -1],
+    "jacket_name":"702_aiuta",
+    "band_id":2
+  },
+  "703":{
+    "song_id":703,
+    "title":"Polyphonyscape",
+    "diff":[7, 12, 22, 27, -1],
+    "jacket_name":"703_polyphonyscape",
+    "band_id":21
+  },
+  "704":{
+    "song_id":704,
+    "title":"ロケットサイダー",
+    "diff":[8, 13, 23, 27, -1],
+    "jacket_name":"704_rocket_cider",
+    "band_id":1
+  },
+  "705":{
+    "song_id":705,
+    "title":"黒のバースデイ",
+    "diff":[9, 14, 23, 26, -1],
+    "jacket_name":"705_black_birthday",
+    "band_id":46
+  },
+  "706":{
+    "song_id":706,
+    "title":"FIVE as ONE",
+    "diff":[7, 11, 19, 25, -1],
+    "jacket_name":"706_five_as_one",
+    "band_id":18
+  },
+  "707":{
+    "song_id":707,
+    "title":"つよがるガール feat. もっさ",
+    "diff":[8, 12, 22, 26, -1],
+    "jacket_name":"707_tuyo_girl",
+    "band_id":1
+  },
+  "708":{
+    "song_id":708,
+    "title":"Feathered Dreams",
+    "diff":[8, 13, 23, 26, -1],
+    "jacket_name":"708_feathered_dreams",
+    "band_id":21
+  },
+  "709":{
+    "song_id":709,
+    "title":"Shine ☆n My Life!",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"709_shine_my_life",
+    "band_id":4
+  },
+  "710":{
+    "song_id":710,
+    "title":"走り始めたばかりのキミに(パラレルver.)",
+    "diff":[7, 12, 20, 25, 27],
+    "jacket_name":"710_hashikimi_p",
+    "band_id":89
+  },
+  "711":{
+    "song_id":711,
+    "title":"flame of hope(パラレルver.)",
+    "diff":[10, 15, 23, 27, 27],
+    "jacket_name":"711_flame_of_hope_p",
+    "band_id":90
+  },
+  "712":{
+    "song_id":712,
+    "title":"Drive Your Heart",
+    "diff":[7, 12, 23, 26, -1],
+    "jacket_name":"712_drive_your_heart",
+    "band_id":1
+  },
+  "713":{
+    "song_id":713,
+    "title":"紫炎",
+    "diff":[8, 13, 21, 26, -1],
+    "jacket_name":"713_shien",
+    "band_id":5
+  },
+  "714":{
+    "song_id":714,
+    "title":"Steadfast Spirits",
+    "diff":[9, 15, 24, 28, -1],
+    "jacket_name":"714_steadfast_sprits",
+    "band_id":5
+  },
+  "715":{
+    "song_id":715,
+    "title":"残痕字",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"715_page",
+    "band_id":45
+  },
+  "716":{
+    "song_id":716,
+    "title":"アイワナムチュー",
+    "diff":[7, 12, 20, 24, -1],
+    "jacket_name":"716_i_wanna_muchu",
+    "band_id":4
+  },
+  "717":{
+    "song_id":717,
+    "title":"Requiem for Fate",
+    "diff":[9, 14, 23, 27, -1],
+    "jacket_name":"717_requiem_for_fate",
+    "band_id":5
+  },
+  "718":{
+    "song_id":718,
+    "title":"Color of Us",
+    "diff":[8, 12, 22, 26, -1],
+    "jacket_name":"718_color_of_us",
+    "band_id":21
+  },
+  "719":{
+    "song_id":719,
+    "title":"往欄印",
+    "diff":[9, 15, 24, 28, -1],
+    "jacket_name":"719_ourai",
+    "band_id":45
+  },
+  "720":{
+    "song_id":720,
+    "title":"スタ〜リング ☆じぶん☆",
+    "diff":[7, 13, 21, 26, -1],
+    "jacket_name":"720_staring_jibun",
+    "band_id":3
+  },
+  "721":{
+    "song_id":721,
+    "title":"とーくとぅみー・とーくとぅゆー",
+    "diff":[7, 15, 22, 28, -1],
+    "jacket_name":"721_talk_to_me",
+    "band_id":3
+  },
+  "722":{
+    "song_id":722,
+    "title":"百花繚乱",
+    "diff":[8, 14, 22, 26, -1],
+    "jacket_name":"722_hyakka_ryoran",
+    "band_id":18
+  },
+  "723":{
+    "song_id":723,
+    "title":"スキ×すき×カラフリィ",
+    "diff":[7, 12, 19, 24, -1],
+    "jacket_name":"723_sukisuki_colorfully",
+    "band_id":4
+  },
+  "724":{
+    "song_id":724,
+    "title":"Resonant Strings",
+    "diff":[8, 14, 24, 27, -1],
+    "jacket_name":"724_resonant_strings",
+    "band_id":21
+  },
+  "725":{
+    "song_id":725,
+    "title":"'FIGHT' ADDICT",
+    "diff":[8, 14, 22, 26, -1],
+    "jacket_name":"725_fight_addict",
+    "band_id":18
+  },
+  "726":{
+    "song_id":726,
+    "title":"Feel so good!",
+    "diff":[7, 14, 23, 26, -1],
+    "jacket_name":"726_feel_so_good",
+    "band_id":2
+  },
+  "727":{
+    "song_id":727,
+    "title":"季節は次々死んでいく",
+    "diff":[7, 13, 21, 26, -1],
+    "jacket_name":"727_kisetsuha_tsugitsugi",
+    "band_id":2
+  },
+  "728":{
+    "song_id":728,
+    "title":"ビューティ・フォー",
+    "diff":[9, 14, 24, 27, -1],
+    "jacket_name":"728_beauty_for",
+    "band_id":21
+  },
+  "729":{
+    "song_id":729,
+    "title":"オン・ザ・フロントライン",
+    "diff":[7, 13, 23, 27, -1],
+    "jacket_name":"729_on_the_frontline",
+    "band_id":21
+  },
+  "730":{
+    "song_id":730,
+    "title":"BROKEN GAMES",
+    "diff":[7, 12, 20, 25, -1],
+    "jacket_name":"730_broken_games",
+    "band_id":18
+  },
+  "731":{
+    "song_id":731,
+    "title":"恋愛サーキュレーション",
+    "diff":[6, 11, 19, 24, -1],
+    "jacket_name":"731_renai_circulation",
+    "band_id":4
+  },
+  "732":{
+    "song_id":732,
+    "title":"Fallen",
+    "diff":[9, 14, 24, 27, -1],
+    "jacket_name":"732_fallen",
+    "band_id":5
+  },
+  "733":{
+    "song_id":733,
+    "title":"怪獣",
+    "diff":[7, 13, 21, 25, -1],
+    "jacket_name":"733_kaiju",
+    "band_id":3
+  },
+  "734":{
+    "song_id":734,
+    "title":"POP IN 2",
+    "diff":[7, 13, 22, 26, -1],
+    "jacket_name":"734_pop_in_2",
+    "band_id":1
+  },
+  "735":{
+    "song_id":735,
+    "title":"エガクミライ",
+    "diff":[6, 12, 18, 24, -1],
+    "jacket_name":"735_egaku_mirai",
+    "band_id":45
+  },
+  "736":{
+    "song_id":736,
+    "title":"Velonica",
+    "diff":[7, 12, 20, 26, -1],
+    "jacket_name":"736_velonica",
+    "band_id":45
+  },
+  "737":{
+    "song_id":737,
+    "title":"Mas?uerade Rhapsody Re?uest",
+    "diff":[8, 14, 22, 27, -1],
+    "jacket_name":"737_masquerade",
+    "band_id":46
+  },
+  "738":{
+    "song_id":738,
+    "title":"Part of the Life",
+    "diff":[7, 12, 22, 26, -1],
+    "jacket_name":"738_part_of_life",
+    "band_id":2
+  },
+  "739":{
+    "song_id":739,
+    "title":"BIBIBABI BRAVER",
+    "diff":[7, 13, 23, 27, -1],
+    "jacket_name":"739_bibibabi",
+    "band_id":18
+  },
+  "740":{
+    "song_id":740,
+    "title":"元祖！バンドリちゃんのテーマ",
+    "diff":[8, 13, 24, 28, -1],
+    "jacket_name":"740_ganso_bandori",
+    "band_id":91
+  },
+  "741":{
+    "song_id":741,
+    "title":"世界中の青空をあつめて",
+    "diff":[7, 12, 22, 26, -1],
+    "jacket_name":"741_sekaiju_aozora",
+    "band_id":1
+  },
+  "742":{
+    "song_id":742,
+    "title":"きみCharmin'",
+    "diff":[7, 11, 20, 24, -1],
+    "jacket_name":"742_kimi_charmin",
+    "band_id":4
+  },
+  "1000":{
+    "song_id":1000,
+    "title":"Legendary (English Version)",
+    "diff":[8, 13, 18, 25, -1],
+    "jacket_name":"1000_legendary_eng",
+    "band_id":5
+  },
+  "1001":{
+    "song_id":1001,
+    "title":"Excellent (Hey, Let's Go!) (English Version)",
+    "diff":[10, 14, 20, 26, -1],
+    "jacket_name":"1001_saikou_eng",
+    "band_id":1
+  },
+  "1004":{
+    "song_id":1004,
+    "title":"See the world",
+    "diff":[3, 7, 19, 27, -1],
+    "jacket_name":"1004_see_the_world_eng",
+    "band_id":1004
+  },
+  "1005":{
+    "song_id":1005,
+    "title":"EXPOSE 'Burn out!!!' (English Version)",
+    "diff":[9, 15, 22, 26, 27],
+    "jacket_name":"1005_expose",
+    "band_id":18
+  },
+  "1006":{
+    "song_id":1006,
+    "title":"Takin’ my Heart (English Version)",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"1006_takin_my_heart",
+    "band_id":18
+  },
+  "10001":{
+    "song_id":10001,
+    "title":"彩虹节拍",
+    "diff":[7, 14, 18, 26, 26],
+    "jacket_name":"10001_caihongjiepai",
+    "band_id":88
+  },
+  "10002":{
+    "song_id":10002,
+    "title":"雪华翩跹，笑看无常",
+    "diff":[7, 13, 20, 25, -1],
+    "jacket_name":"10002_xuehua",
+    "band_id":10002
+  },
+  "10003":{
+    "song_id":10003,
+    "title":"Mystic Light Quest",
+    "diff":[8, 13, 22, 27, -1],
+    "jacket_name":"10003_fangzhou",
+    "band_id":10003
+  }
+}

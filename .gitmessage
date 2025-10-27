@@ -1,0 +1,37 @@
+# 请遵循 Conventional Commits 规范提交
+# 格式: <type>[optional scope]: <description>
+#
+# 示例: 
+#   feat(auth): 添加用户登录功能
+#   fix(payment): 修复支付金额计算错误
+#   refactor(api): 重构用户接口
+#
+# 类型说明:
+#   feat:     新功能
+#   fix:      修复bug
+#   refactor: 重构代码
+#   docs:     文档更新
+#   style:    代码格式调整 \ 优化部分过程
+#   test:     测试相关
+#   chore:    构建过程或辅助工具变动
+#
+# 模块范围 (scope):
+#   f/   前端模块
+#   b/    后端模块
+#   *           全局修改
+#
+# 提交信息主体 (body): 详细描述修改内容
+#
+# 页脚 (footer): 
+#   Closes #123   关闭issue
+#   Breaks        破坏性变更
+#   See also      相关参考
+#
+# 删除所有以 # 开头的注释行，然后编写你的提交信息
+# --- 在下方编写提交信息 ---
+
+<type>(<scope>): <subject>
+
+<body>
+
+<footer>
