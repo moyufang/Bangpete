@@ -8,10 +8,12 @@ __pycache__/
 *.pth
 *.ckpt
 
+temp/
 temp
 temp.*
 tmp.*
 tempCodeRunnerFile.py
+deprecated-*/
 
 # webui
 # Logs
