@@ -1,0 +1,176 @@
+// =============================================================================
+// Modern CSS Reset
+// =============================================================================
+
+// 使用更直观的盒模型
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+// 移除默认边距
+* {
+  margin: 0;
+  padding: 0;
+}
+
+// 设置核心默认值
+html {
+  // 让 1rem = 10px（在默认字体大小为16px时）
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+// 设置 body 默认样式
+body {
+  // 重置为 16px（1.6rem）以便于计算
+  font-size: 1.6rem;
+  line-height: $line-height-normal;
+  font-family: $font-family-base;
+  color: $gray-800;
+  background-color: $white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeSpeed;
+}
+
+// 移除列表样式
+ol,
+ul {
+  list-style: none;
+}
+
+// 移除链接默认样式
+a {
+  color: inherit;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+// 移除按钮默认样式
+button {
+  background: none;
+  border: none;
+  font: inherit;
+  cursor: pointer;
+  
+  &:focus {
+    outline: none;
+  }
+  
+  &:disabled {
+    cursor: not-allowed;
+  }
+}
+
+// 移除输入框默认样式
+input,
+textarea,
+select {
+  font: inherit;
+  border: none;
+  outline: none;
+  
+  &:focus {
+    outline: none;
+  }
+}
+
+// 改进媒体默认值
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+// 移除表格间距
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+// 文本选择样式
+::selection {
+  background-color: rgba($primary-color, 0.2);
+  color: inherit;
+}
+
+// 减少运动用户的动画
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+// 焦点样式（无障碍访问）
+:focus-visible {
+  outline: 2px solid $primary-color;
+  outline-offset: 2px;
+}
+
+// 隐藏 visually-hidden 类
+.visually-hidden {
+  @include visually-hidden;
+}
+
+// 打印样式
+@media print {
+  *,
+  *::before,
+  *::after {
+    background: transparent !important;
+    color: black !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+  
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+  
+  abbr[title]::after {
+    content: " (" attr(title) ")";
+  }
+  
+  pre {
+    white-space: pre-wrap !important;
+  }
+  
+  pre,
+  blockquote {
+    border: 1px solid $gray-500;
+    page-break-inside: avoid;
+  }
+  
+  thead {
+    display: table-header-group;
+  }
+  
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+  
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+  
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+}

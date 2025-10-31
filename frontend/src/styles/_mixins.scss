@@ -1,0 +1,215 @@
+// =============================================================================
+// 响应式断点混合器
+// =============================================================================
+
+@mixin respond-to($breakpoint) {
+  @if $breakpoint == xs {
+    @media (max-width: #{$breakpoint-sm - 1px}) { @content; }
+  } @else if $breakpoint == sm {
+    @media (min-width: #{$breakpoint-sm}) { @content; }
+  } @else if $breakpoint == md {
+    @media (min-width: #{$breakpoint-md}) { @content; }
+  } @else if $breakpoint == lg {
+    @media (min-width: #{$breakpoint-lg}) { @content; }
+  } @else if $breakpoint == xl {
+    @media (min-width: #{$breakpoint-xl}) { @content; }
+  } @else if $breakpoint == xxl {
+    @media (min-width: #{$breakpoint-xxl}) { @content; }
+  } @else {
+    @warn "Breakpoint mixin supports: xs, sm, md, lg, xl, xxl";
+  }
+}
+
+// =============================================================================
+// Flexbox 布局混合器
+// =============================================================================
+
+// 快速 Flex 布局
+@mixin flex($justify: flex-start, $align: stretch, $direction: row, $wrap: nowrap) {
+  display: flex;
+  flex-direction: $direction;
+  justify-content: $justify;
+  align-items: $align;
+  flex-wrap: $wrap;
+}
+
+// Flex 居中
+@mixin flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@mixin flex-center-column {
+  @include flex-center;
+  flex-direction: column;
+}
+
+// =============================================================================
+// 定位混合器
+// =============================================================================
+
+// 绝对定位居中
+@mixin absolute-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+// 固定全屏
+@mixin fixed-fullscreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+// =============================================================================
+// 文字截断混合器
+// =============================================================================
+
+// 单行文字截断
+@mixin text-truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+// 多行文字截断
+@mixin text-truncate-multiline($lines: 2) {
+  display: -webkit-box;
+  -webkit-line-clamp: $lines;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+// =============================================================================
+// 按钮混合器
+// =============================================================================
+
+@mixin button-base {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: $border-radius-base;
+  padding: $spacing-sm $spacing-lg;
+  font-family: inherit;
+  font-size: $font-size-base;
+  font-weight: $font-weight-medium;
+  line-height: $line-height-normal;
+  text-decoration: none;
+  cursor: pointer;
+  transition: $transition-base;
+  outline: none;
+  
+  &:focus {
+    box-shadow: 0 0 0 3px rgba($primary-color, 0.25);
+  }
+  
+  &:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+}
+
+@mixin button-variant($background, $color: $white, $hover-background: darken($background, 10%)) {
+  background-color: $background;
+  color: $color;
+  
+  &:hover:not(:disabled) {
+    background-color: $hover-background;
+  }
+  
+  &:active:not(:disabled) {
+    transform: translateY(1px);
+  }
+}
+
+@mixin button-size($padding-y, $padding-x, $font-size) {
+  padding: $padding-y $padding-x;
+  font-size: $font-size;
+}
+
+// =============================================================================
+// 卡片混合器
+// =============================================================================
+
+@mixin card-base {
+  background: $white;
+  border-radius: $border-radius-lg;
+  box-shadow: $shadow-base;
+  overflow: hidden;
+}
+
+@mixin card-padding($padding: $spacing-lg) {
+  padding: $padding;
+}
+
+// =============================================================================
+// 表单元素混合器
+// =============================================================================
+
+@mixin form-input-base {
+  display: block;
+  width: 100%;
+  padding: $spacing-sm $spacing-md;
+  font-family: inherit;
+  font-size: $font-size-base;
+  line-height: $line-height-normal;
+  color: $gray-800;
+  background-color: $white;
+  border: 1px solid $gray-300;
+  border-radius: $border-radius-base;
+  transition: $transition-base;
+  
+  &:focus {
+    outline: none;
+    border-color: $primary-color;
+    box-shadow: 0 0 0 3px rgba($primary-color, 0.1);
+  }
+  
+  &::placeholder {
+    color: $gray-500;
+  }
+  
+  &:disabled {
+    background-color: $gray-100;
+    cursor: not-allowed;
+  }
+}
+
+// =============================================================================
+// 视觉隐藏混合器（无障碍访问）
+// =============================================================================
+
+@mixin visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+// =============================================================================
+// 网格系统混合器
+// =============================================================================
+
+@mixin grid-container($max-width: 1200px, $gutter: $spacing-lg) {
+  width: 100%;
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: 0 $gutter;
+}
+
+@mixin grid($columns: 12, $gutter: $spacing-lg) {
+  display: grid;
+  grid-template-columns: repeat($columns, 1fr);
+  gap: $gutter;
+}

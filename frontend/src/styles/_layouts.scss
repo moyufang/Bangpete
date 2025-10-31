@@ -1,0 +1,310 @@
+// =============================================================================
+// 容器布局
+// =============================================================================
+
+.container {
+  @include grid-container;
+  
+  &--fluid {
+    max-width: none;
+  }
+  
+  &--narrow {
+    max-width: 800px;
+  }
+}
+
+// =============================================================================
+// 网格系统
+// =============================================================================
+
+.grid {
+  @include grid;
+  
+  &--2 {
+    grid-template-columns: repeat(2, 1fr);
+    
+    @include respond-to(md) {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  &--3 {
+    grid-template-columns: repeat(3, 1fr);
+    
+    @include respond-to(lg) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    
+    @include respond-to(md) {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  &--4 {
+    grid-template-columns: repeat(4, 1fr);
+    
+    @include respond-to(lg) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    
+    @include respond-to(md) {
+      grid-template-columns: 1fr;
+    }
+  }
+}
+
+// =============================================================================
+// Flexbox 布局工具类
+// =============================================================================
+
+.flex {
+  display: flex;
+  
+  &--column {
+    flex-direction: column;
+  }
+  
+  &--wrap {
+    flex-wrap: wrap;
+  }
+  
+  &--center {
+    justify-content: center;
+    align-items: center;
+  }
+  
+  &--between {
+    justify-content: space-between;
+  }
+  
+  &--around {
+    justify-content: space-around;
+  }
+  
+  &--start {
+    justify-content: flex-start;
+  }
+  
+  &--end {
+    justify-content: flex-end;
+  }
+}
+
+// =============================================================================
+// 间距工具类
+// =============================================================================
+
+// Margin 工具类
+.m {
+  &-0 { margin: 0; }
+  &-xs { margin: $spacing-xs; }
+  &-sm { margin: $spacing-sm; }
+  &-md { margin: $spacing-md; }
+  &-lg { margin: $spacing-lg; }
+  &-xl { margin: $spacing-xl; }
+  &-auto { margin: auto; }
+  
+  // 方向性 Margin
+  &t-0 { margin-top: 0; }
+  &t-xs { margin-top: $spacing-xs; }
+  &t-sm { margin-top: $spacing-sm; }
+  &t-md { margin-top: $spacing-md; }
+  &t-lg { margin-top: $spacing-lg; }
+  &t-xl { margin-top: $spacing-xl; }
+  &t-auto { margin-top: auto; }
+  
+  &b-0 { margin-bottom: 0; }
+  &b-xs { margin-bottom: $spacing-xs; }
+  &b-sm { margin-bottom: $spacing-sm; }
+  &b-md { margin-bottom: $spacing-md; }
+  &b-lg { margin-bottom: $spacing-lg; }
+  &b-xl { margin-bottom: $spacing-xl; }
+  &b-auto { margin-bottom: auto; }
+  
+  &l-0 { margin-left: 0; }
+  &l-xs { margin-left: $spacing-xs; }
+  &l-sm { margin-left: $spacing-sm; }
+  &l-md { margin-left: $spacing-md; }
+  &l-lg { margin-left: $spacing-lg; }
+  &l-xl { margin-left: $spacing-xl; }
+  &l-auto { margin-left: auto; }
+  
+  &r-0 { margin-right: 0; }
+  &r-xs { margin-right: $spacing-xs; }
+  &r-sm { margin-right: $spacing-sm; }
+  &r-md { margin-right: $spacing-md; }
+  &r-lg { margin-right: $spacing-lg; }
+  &r-xl { margin-right: $spacing-xl; }
+  &r-auto { margin-right: auto; }
+  
+  &x-0 { margin-left: 0; margin-right: 0; }
+  &x-xs { margin-left: $spacing-xs; margin-right: $spacing-xs; }
+  &x-sm { margin-left: $spacing-sm; margin-right: $spacing-sm; }
+  &x-md { margin-left: $spacing-md; margin-right: $spacing-md; }
+  &x-lg { margin-left: $spacing-lg; margin-right: $spacing-lg; }
+  &x-xl { margin-left: $spacing-xl; margin-right: $spacing-xl; }
+  &x-auto { margin-left: auto; margin-right: auto; }
+  
+  &y-0 { margin-top: 0; margin-bottom: 0; }
+  &y-xs { margin-top: $spacing-xs; margin-bottom: $spacing-xs; }
+  &y-sm { margin-top: $spacing-sm; margin-bottom: $spacing-sm; }
+  &y-md { margin-top: $spacing-md; margin-bottom: $spacing-md; }
+  &y-lg { margin-top: $spacing-lg; margin-bottom: $spacing-lg; }
+  &y-xl { margin-top: $spacing-xl; margin-bottom: $spacing-xl; }
+  &y-auto { margin-top: auto; margin-bottom: auto; }
+}
+
+// Padding 工具类
+.p {
+  &-0 { padding: 0; }
+  &-xs { padding: $spacing-xs; }
+  &-sm { padding: $spacing-sm; }
+  &-md { padding: $spacing-md; }
+  &-lg { padding: $spacing-lg; }
+  &-xl { padding: $spacing-xl; }
+  
+  // 方向性 Padding
+  &t-0 { padding-top: 0; }
+  &t-xs { padding-top: $spacing-xs; }
+  &t-sm { padding-top: $spacing-sm; }
+  &t-md { padding-top: $spacing-md; }
+  &t-lg { padding-top: $spacing-lg; }
+  &t-xl { padding-top: $spacing-xl; }
+  
+  &b-0 { padding-bottom: 0; }
+  &b-xs { padding-bottom: $spacing-xs; }
+  &b-sm { padding-bottom: $spacing-sm; }
+  &b-md { padding-bottom: $spacing-md; }
+  &b-lg { padding-bottom: $spacing-lg; }
+  &b-xl { padding-bottom: $spacing-xl; }
+  
+  &l-0 { padding-left: 0; }
+  &l-xs { padding-left: $spacing-xs; }
+  &l-sm { padding-left: $spacing-sm; }
+  &l-md { padding-left: $spacing-md; }
+  &l-lg { padding-left: $spacing-lg; }
+  &l-xl { padding-left: $spacing-xl; }
+  
+  &r-0 { padding-right: 0; }
+  &r-xs { padding-right: $spacing-xs; }
+  &r-sm { padding-right: $spacing-sm; }
+  &r-md { padding-right: $spacing-md; }
+  &r-lg { padding-right: $spacing-lg; }
+  &r-xl { padding-right: $spacing-xl; }
+  
+  &x-0 { padding-left: 0; padding-right: 0; }
+  &x-xs { padding-left: $spacing-xs; padding-right: $spacing-xs; }
+  &x-sm { padding-left: $spacing-sm; padding-right: $spacing-sm; }
+  &x-md { padding-left: $spacing-md; padding-right: $spacing-md; }
+  &x-lg { padding-left: $spacing-lg; padding-right: $spacing-lg; }
+  &x-xl { padding-left: $spacing-xl; padding-right: $spacing-xl; }
+  
+  &y-0 { padding-top: 0; padding-bottom: 0; }
+  &y-xs { padding-top: $spacing-xs; padding-bottom: $spacing-xs; }
+  &y-sm { padding-top: $spacing-sm; padding-bottom: $spacing-sm; }
+  &y-md { padding-top: $spacing-md; padding-bottom: $spacing-md; }
+  &y-lg { padding-top: $spacing-lg; padding-bottom: $spacing-lg; }
+  &y-xl { padding-top: $spacing-xl; padding-bottom: $spacing-xl; }
+}
+
+// =============================================================================
+// 显示和隐藏工具类
+// =============================================================================
+
+// 显示工具类
+.d {
+  &-block { display: block; }
+  &-inline { display: inline; }
+  &-inline-block { display: inline-block; }
+  &-flex { display: flex; }
+  &-grid { display: grid; }
+  &-none { display: none; }
+}
+
+// 响应式显示工具类
+@include respond-to(sm) {
+  .d-sm {
+    &-block { display: block; }
+    &-inline { display: inline; }
+    &-inline-block { display: inline-block; }
+    &-flex { display: flex; }
+    &-grid { display: grid; }
+    &-none { display: none; }
+  }
+}
+
+@include respond-to(md) {
+  .d-md {
+    &-block { display: block; }
+    &-inline { display: inline; }
+    &-inline-block { display: inline-block; }
+    &-flex { display: flex; }
+    &-grid { display: grid; }
+    &-none { display: none; }
+  }
+}
+
+@include respond-to(lg) {
+  .d-lg {
+    &-block { display: block; }
+    &-inline { display: inline; }
+    &-inline-block { display: inline-block; }
+    &-flex { display: flex; }
+    &-grid { display: grid; }
+    &-none { display: none; }
+  }
+}
+
+// =============================================================================
+// 定位工具类
+// =============================================================================
+
+.position {
+  &-static { position: static; }
+  &-relative { position: relative; }
+  &-absolute { position: absolute; }
+  &-fixed { position: fixed; }
+  &-sticky { position: sticky; }
+}
+
+// =============================================================================
+// 文本工具类
+// =============================================================================
+
+.text {
+  &-left { text-align: left; }
+  &-center { text-align: center; }
+  &-right { text-align: right; }
+  &-justify { text-align: justify; }
+  
+  &-uppercase { text-transform: uppercase; }
+  &-lowercase { text-transform: lowercase; }
+  &-capitalize { text-transform: capitalize; }
+  
+  &-truncate { @include text-truncate; }
+  
+  &-nowrap { white-space: nowrap; }
+  &-wrap { white-space: normal; }
+  &-pre { white-space: pre; }
+}
+
+// =============================================================================
+// 宽度和高度工具类
+// =============================================================================
+
+.w {
+  &-auto { width: auto; }
+  &-25 { width: 25%; }
+  &-50 { width: 50%; }
+  &-75 { width: 75%; }
+  &-100 { width: 100%; }
+}
+
+.h {
+  &-auto { height: auto; }
+  &-25 { height: 25%; }
+  &-50 { height: 50%; }
+  &-75 { height: 75%; }
+  &-100 { height: 100%; }
+}

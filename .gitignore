@@ -1,4 +1,4 @@
-# Python cache files
+### backend
 __pycache__/
 *.pyc
 *.pyo
@@ -15,7 +15,8 @@ tmp.*
 tempCodeRunnerFile.py
 deprecated-*/
 
-# webui
+### frontend
+
 # Logs
 logs
 *.log
@@ -32,9 +33,6 @@ dist-ssr
 coverage
 *.local
 
-/cypress/videos/
-/cypress/screenshots/
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -46,3 +44,12 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+.eslintcache
+
+# Cypress
+/cypress/videos/
+/cypress/screenshots/
+
+# Vitest
+__screenshots__/

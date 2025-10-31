@@ -1,0 +1,272 @@
+// =============================================================================
+// SCSS 主入口文件
+// =============================================================================
+
+// 导入变量和混合器（这些文件不输出实际CSS）
+@import 'variables';
+@import 'mixins';
+@import 'reset';
+@import 'layouts';
+@import 'components';
+// =============================================================================
+// 全局样式
+// =============================================================================
+
+// 基础 HTML 元素样式
+html {
+  font-size: 62.5%; // 1rem = 10px
+}
+
+body {
+  font-size: 1.6rem; // 16px
+  line-height: $line-height-normal;
+  font-family: $font-family-base;
+  color: $gray-800;
+  background-color: $white;
+}
+
+// 标题样式
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: $spacing-md;
+  font-weight: $font-weight-semibold;
+  line-height: $line-height-tight;
+  color: $gray-900;
+}
+
+h1 { font-size: $font-size-4xl; }
+h2 { font-size: $font-size-3xl; }
+h3 { font-size: $font-size-2xl; }
+h4 { font-size: $font-size-xl; }
+h5 { font-size: $font-size-lg; }
+h6 { font-size: $font-size-base; }
+
+// 段落和文本元素
+p {
+  margin-bottom: $spacing-md;
+  
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// 链接样式
+a {
+  color: $primary-color;
+  text-decoration: none;
+  transition: $transition-base;
+  
+  &:hover {
+    color: $primary-dark;
+    text-decoration: underline;
+  }
+  
+  &:focus {
+    outline: 2px solid $primary-color;
+    outline-offset: 2px;
+  }
+}
+
+// 代码样式
+code {
+  font-family: $font-family-monospace;
+  font-size: $font-size-sm;
+  background-color: $gray-100;
+  padding: $spacing-xs $spacing-sm;
+  border-radius: $border-radius-sm;
+  color: $error-color;
+}
+
+pre {
+  background-color: $gray-100;
+  padding: $spacing-lg;
+  border-radius: $border-radius-base;
+  overflow-x: auto;
+  margin-bottom: $spacing-lg;
+  
+  code {
+    background: none;
+    padding: 0;
+    color: inherit;
+  }
+}
+
+// 引用样式
+blockquote {
+  border-left: 4px solid $gray-300;
+  padding-left: $spacing-lg;
+  margin: $spacing-lg 0;
+  font-style: italic;
+  color: $gray-600;
+  
+  cite {
+    display: block;
+    margin-top: $spacing-sm;
+    font-style: normal;
+    font-weight: $font-weight-medium;
+    color: $gray-700;
+    
+    &::before {
+      content: "— ";
+    }
+  }
+}
+
+// 水平线
+hr {
+  border: none;
+  height: 1px;
+  background-color: $gray-300;
+  margin: $spacing-xl 0;
+}
+
+// =============================================================================
+// 工具类
+// =============================================================================
+
+// 颜色工具类
+.text {
+  &-primary { color: $primary-color; }
+  &-secondary { color: $secondary-color; }
+  &-success { color: $success-color; }
+  &-warning { color: $warning-color; }
+  &-error { color: $error-color; }
+  &-muted { color: $gray-600; }
+  
+  &-white { color: $white; }
+  &-black { color: $black; }
+}
+
+.bg {
+  &-primary { background-color: $primary-color; }
+  &-secondary { background-color: $secondary-color; }
+  &-success { background-color: $success-color; }
+  &-warning { background-color: $warning-color; }
+  &-error { background-color: $error-color; }
+  &-light { background-color: $gray-100; }
+  &-dark { background-color: $gray-800; }
+  
+  &-white { background-color: $white; }
+  &-black { background-color: $black; }
+}
+
+// 字体权重工具类
+.font {
+  &-light { font-weight: $font-weight-light; }
+  &-normal { font-weight: $font-weight-normal; }
+  &-medium { font-weight: $font-weight-medium; }
+  &-semibold { font-weight: $font-weight-semibold; }
+  &-bold { font-weight: $font-weight-bold; }
+}
+
+// 边框工具类
+.border {
+  border: 1px solid $gray-300;
+  
+  &-top { border-top: 1px solid $gray-300; }
+  &-right { border-right: 1px solid $gray-300; }
+  &-bottom { border-bottom: 1px solid $gray-300; }
+  &-left { border-left: 1px solid $gray-300; }
+  
+  &-0 { border: none; }
+  &-top-0 { border-top: none; }
+  &-right-0 { border-right: none; }
+  &-bottom-0 { border-bottom: none; }
+  &-left-0 { border-left: none; }
+}
+
+// 圆角工具类
+.rounded {
+  &-sm { border-radius: $border-radius-sm; }
+  &-base { border-radius: $border-radius-base; }
+  &-md { border-radius: $border-radius-md; }
+  &-lg { border-radius: $border-radius-lg; }
+  &-xl { border-radius: $border-radius-xl; }
+  &-2xl { border-radius: $border-radius-2xl; }
+  &-full { border-radius: $border-radius-full; }
+}
+
+// 阴影工具类
+.shadow {
+  &-none { box-shadow: none; }
+  &-sm { box-shadow: $shadow-sm; }
+  &-base { box-shadow: $shadow-base; }
+  &-md { box-shadow: $shadow-md; }
+  &-lg { box-shadow: $shadow-lg; }
+  &-xl { box-shadow: $shadow-xl; }
+}
+
+// =============================================================================
+// 响应式工具类
+// =============================================================================
+
+// 响应式间距
+@each $breakpoint in (sm, md, lg, xl) {
+  @include respond-to($breakpoint) {
+    .m-#{$breakpoint} {
+      &-0 { margin: 0; }
+      &-xs { margin: $spacing-xs; }
+      &-sm { margin: $spacing-sm; }
+      &-md { margin: $spacing-md; }
+      &-lg { margin: $spacing-lg; }
+      &-xl { margin: $spacing-xl; }
+      &-auto { margin: auto; }
+    }
+    
+    .p-#{$breakpoint} {
+      &-0 { padding: 0; }
+      &-xs { padding: $spacing-xs; }
+      &-sm { padding: $spacing-sm; }
+      &-md { padding: $spacing-md; }
+      &-lg { padding: $spacing-lg; }
+      &-xl { padding: $spacing-xl; }
+    }
+  }
+}
+
+// =============================================================================
+// 打印样式
+// =============================================================================
+
+@media print {
+  * {
+    background: transparent !important;
+    color: black !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+  
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+  
+  // 隐藏不需要打印的元素
+  .no-print {
+    display: none !important;
+  }
+}
+
+// =============================================================================
+// 高对比度模式支持（无障碍访问）
+// =============================================================================
+
+@media (prefers-contrast: high) {
+  :root {
+    --text-color: #000000;
+    --background-color: #ffffff;
+    --border-color: #000000;
+  }
+}
+
+// =============================================================================
+// 减少运动支持（无障碍访问）
+// =============================================================================
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
