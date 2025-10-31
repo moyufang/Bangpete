@@ -1,9 +1,9 @@
-fastapi
 uvicorn
-pydantic
 pytest
 python-jose[cryptography] # JWT
 passlib[bcrypt]           # 密码加密
-sqlalchemy                # ORM
 databases[sqlite]         # 数据库驱动
-fastapi-users[sqlite]
+sqlalchemy
+pydantic
+fastapi
+fastapi-users[sqlalchemy]
