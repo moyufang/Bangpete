@@ -53,3 +53,32 @@
 （3）数据格式，除超级管理员为0外，正常用户ID为 10000000~99999999，注册成功时，随机选择 10000000~99999999 之间的闲置 ID
 （4）超级用户的邮箱是 "super@bangpete.com"
 
+---------------------------------------------------------------------------------
+这是后端获取 json 资源 和图片资源的api，样例格式为 "songs_header.json" 与 "j-123.png" "t-233.png"：“@app.get("/data/header/{file_name}")
+async def get_data_header(file_name:str):
+  try:
+    name, ext = file_name.split('.')
+    file_path = f"./data/header/{file_name}"
+    if os.path.exists(file_path): return FileResponse(file_path)
+    else: return {"error":"404"}
+  except Exception as e:
+    return {"error": str(e)}
+
+@app.get("/data/jacket/{file_name}")
+async def get_data_jacket(file_name: str):
+  file_path = f"./data/jacket/{file_name}"
+  print("Get file_path:", file_path)
+  if os.path.exists(file_path):
+    return FileResponse(file_path)
+  else:
+    raise HTTPException(status_code=404, detail="File not found")
+
+if __name__ == "__main__":
+  import uvicorn
+  uvicorn.run(app, host="127.0.0.1", port=8888)”
+
+我的前端环境是vue+ts+scss+pinia+vue-router
+有一个大厅页面 src/pages/Lobby.vue
+需要通过api获取json资源和图片资源，数量不多，但是Map的键最好包括文件路径和扩展名
+我希望能够写一个src/stores/lobby.ts，将获取的json资源与图片资源缓存起来，然后子组件获取资源时，通过src/stores/lobby.ts里定义的函数或对象来获取。
+现在，请你分析我的需求，然后围绕“缓存资源”这个核心需求，分析我的想法是最佳实践吗？浏览器会不会自动缓存资源，即使vue-router转换了路由，我可以修改前后端的所有代码
