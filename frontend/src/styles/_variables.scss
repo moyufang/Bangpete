@@ -32,6 +32,13 @@ $warning-color: #ffc107;
 $error-color: #dc3545;
 $info-color: #17a2b8;
 
+// 乐曲难度颜色
+$diff-color-easy: #8EB4FD;
+$diff-color-normal:#A6F692;
+$diff-color-hard:#FBDF8C;
+$diff-color-expert:#FF898B;
+$diff-color-special:#F383CB;
+
 // =============================================================================
 // 排版系统
 // =============================================================================
@@ -128,3 +135,17 @@ $z-index-modal-backdrop: 1040;
 $z-index-modal: 1050;
 $z-index-popover: 1060;
 $z-index-tooltip: 1070;
+
+// =============================================================================
+// Card
+// =============================================================================
+
+$jacket-size: 400px;
+$thumb-size: 180px;
+$mini-thumb-size: 64px;
+
+$diff-size: 35px;
+$diff-font-size: $font-size-3xl;
+
+$song-title-color: black;
+$band-title-color: gray; 

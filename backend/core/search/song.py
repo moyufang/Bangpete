@@ -1,4 +1,4 @@
-from fastapi import FastAPI, APIRouter, Query
+from fastapi import FastAPI, APIRouter, Query, Depends
 from fastapi.responses import FileResponse, StreamingResponse
 import json
 import re
@@ -13,39 +13,15 @@ special_char = \
 
 def shave_str(title:str):
   return re.sub(special_char, '', title).lower()
-
-with open(SONGS_HEADER_PATH, 'r', encoding='utf-8') as f:
-  songs_header = json.load(f)
   
-matcher = Matcher({k:shave_str(songs_header[k]['title']) for k in songs_header})
 
-router = APIRouter()
-
-@router.get("/")
-async def search(
-  q: str = Query(..., min_length=1, max_length=100),
-  way:str = 'unknown'
-):
-  if way not in ['id', 'str']:
-    if str.isdigit(q): way = 'id'
-    else: way = 'str'
-  try:
-    if way == 'id':
-      if q in songs_header: return {"id":q,"header":songs_header[q]}
-      else: raise ValueError(f"song_id '{q}' doesn't exist")
-    else:
-      q = special_char(q)
-      id = matcher.match(q)
-      return {"id":id, "header":songs_header[q]}
-  except Exception as e:
-    return {"error": str(e)}
 
 # 0 代表任意乐队都行, -1 代表主乐队之外的任意乐队
 MAIN_BANG = [-1, 0, 1, 2, 3, 4, 5, 18, 21, 45]
 SONGS_HEADER_PATH = './data/header/songs_header.json'
 
 class SongConstraint(BaseModel):
-  diff: int       # 难度索引 0-4
+  diff: int             # 难度索引 0-4
   level_low: int        # 最低难度 1-50
   level_high: int       # 最高难度 1-50
   band_id: int          # 乐队ID
@@ -103,6 +79,9 @@ class SongsHeader:
       item = self.tree[k]
       for diff in [0, 1, 2, 3, 4]:
         item[diff].sort()
+  def get_song(self, song_id:str):
+    if song_id not in self.songs_header: return {}, False
+    else: return {song_id: self.songs_header[song_id]}, True
   def get_songs(self, song_constraint: SongConstraint):
     sc = song_constraint
     # 如果band_id不在tree中，返回空
@@ -131,11 +110,34 @@ class SongsHeader:
 with open(SONGS_HEADER_PATH, 'r', encoding='utf-8') as f:
   songs_header = json.load(f)
 songs_header = SongsHeader(songs_header)
+songs_header.build()
+
+matcher = Matcher({k:shave_str(songs_header.songs_header[k]['title']) for k in songs_header.songs_header})
+
+router = APIRouter()
+
+@router.get("/")
+async def search(
+  q: str = Query(..., min_length=1, max_length=100),
+  way:str = 'unknown'
+):
+  print(f"Get q:\"{q}\"")
+  if way not in ['id', 'str']:
+    if str.isdigit(q): way = 'id'
+    else: way = 'str'
+  try:
+    if way != 'id':
+      q = matcher.match(special_char(q))
+    res, is_succeeded = songs_header.get_song(q)
+    if is_succeeded: return {q:res}
+    else: raise ValueError(f"song_id '{q}' doesn't exist")
+  except Exception as e:
+    return {"error": str(e)}
 
 @router.get("/list/")
-async def search(song_constraint:SongConstraint):
+async def search(song_constraint: SongConstraint = Depends()):
   sub_songs_header, is_exhausted = songs_header.get_songs(song_constraint) 
   return {
-    "sub_songs_header": sub_songs_header,
-    "is_exhausted": is_exhausted
+      "sub_songs_header": sub_songs_header,
+      "is_exhausted": is_exhausted
   }

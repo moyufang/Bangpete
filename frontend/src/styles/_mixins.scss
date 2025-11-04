@@ -25,7 +25,7 @@
 // =============================================================================
 
 // 快速 Flex 布局
-@mixin flex($justify: flex-start, $align: stretch, $direction: row, $wrap: nowrap) {
+@mixin flex($direction: row, $justify: flex-start, $align: stretch, $wrap: nowrap) {
   display: flex;
   flex-direction: $direction;
   justify-content: $justify;
@@ -212,4 +212,15 @@
   display: grid;
   grid-template-columns: repeat($columns, 1fr);
   gap: $gutter;
+}
+
+// =============================================================================
+// 纯净 div 混合器
+// =============================================================================
+
+@mixin purebox(){
+  background:none;
+  margin: 0;
+  border: 0;
+  padding: 0;
 }

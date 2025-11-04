@@ -48,6 +48,8 @@ onUnmounted(() => {
 #app {
   position: relative;
   min-height: 100vh;
+  height: 100vh;
+  width: 100vw;
   
   .app-content {
     position: relative;
