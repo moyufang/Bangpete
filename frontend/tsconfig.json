@@ -2,6 +2,10 @@
   "compilerOptions": {
     "module": "ES2020",
     "moduleResolution": "node",
-    "lib":["es2020", "dom"]
+    "lib":["es2020", "dom"],
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
   }
 }

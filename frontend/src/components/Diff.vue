@@ -1,23 +1,29 @@
-<script setup>
-const props = defineProps({
-  diff: {
-    type: Array,
-    required: true,
-    validator: (value) => value.length === 5
-  }
-})
-const diff = props.diff;
+<script setup lang="ts">
+interface Props {
+  diff: number[]
+}
+
+const props = defineProps<Props>()
+
+// 验证 diff 数组长度
+if (props.diff.length !== 5) {
+  console.warn('Diff component expects an array of 5 numbers')
+}
 </script>
 
 <template>
-<div class="diff">
-  <span class="diff-item easy">{{ diff[0] }}</span>
-  <span class="diff-item normal">{{ diff[1] }}</span>
-  <span class="diff-item hard">{{ diff[2] }}</span>
-  <span class="diff-item expert">{{ diff[3] }}</span>
-  <span v-if="diff[4]>-1"
-        class="diff-item special">{{ diff[4] }}</span>
-</div>
+  <div class="diff">
+    <span class="diff-item easy">{{ props.diff[0] }}</span>
+    <span class="diff-item normal">{{ props.diff[1] }}</span>
+    <span class="diff-item hard">{{ props.diff[2] }}</span>
+    <span class="diff-item expert">{{ props.diff[3] }}</span>
+    <span 
+      v-if="props.diff[4] > -1"
+      class="diff-item special"
+    >
+      {{ props.diff[4] }}
+    </span>
+  </div>
 </template>
 
 <style scoped lang='scss'>

@@ -1,4 +1,5 @@
 import { defineStore } from 'pinia'
+import {DATA_URL} from '@/config'
 
 interface ResourceCache {
   json: Map<string, any>
@@ -53,7 +54,7 @@ export const useLobbyStore = defineStore('lobby', {
       this.loading.add(resourceKey)
       
       try {
-        const response = await fetch(`http://127.0.0.1:8888/data/header/${fileName}`)
+        const response = await fetch(`${DATA_URL}${fileName}`)
         
         if (!response.ok) {
           throw new Error(`HTTP ${response.status}: ${response.statusText}`)
@@ -90,7 +91,7 @@ export const useLobbyStore = defineStore('lobby', {
       this.loading.add(resourceKey)
       
       try {
-        const response = await fetch(`http://127.0.0.1:8888/data/jacket/${fileName}`)
+        const response = await fetch(`${DATA_URL}${fileName}`)
         
         if (!response.ok) {
           throw new Error(`HTTP ${response.status}: ${response.statusText}`)
